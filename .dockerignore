@@ -1,0 +1,49 @@
+# Git
+.git
+.gitignore
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+pipeline
+pipeline.exe
+
+# Logs
+logs/*.log
+
+# Data outputs (will be mounted as volumes)
+data/*.json
+metadata/*.json
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env.local
+.env.*.local
+
+# Test files
+*_test.go
+test/
+tests/
+
+# Documentation
+README.md
+*.md
+docs/
+
+# Scripts (not needed in container)
+scripts/
+
+# Go
+vendor/

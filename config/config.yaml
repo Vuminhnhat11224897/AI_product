@@ -1,0 +1,78 @@
+# AI Production Pipeline Configuration - Full Medalion Architecture
+# Bronze → Silver → Gold layers with NO hardcoded values
+
+# Database Configuration (for Bronze & Silver layers)
+database:
+  host: "127.0.0.1"
+  port: 5432
+  user: "postgres"
+  password: "zseefvhu12"
+  dbname: "testAI"
+  sslmode: "disable"
+  max_idle_conns: 10
+  max_open_conns: 100
+  max_lifetime_minutes: 30
+
+# SQL Queries (Bronze layer data extraction)
+queries:
+  profiles_kid: "SELECT * FROM profiles WHERE profile_type='kid';"
+  wallets: "SELECT * FROM wallets;"
+  wallet_transactions: "SELECT * FROM wallet_transactions;"
+  profile_transactions: "SELECT * FROM profile_transactions;"
+  missions: "SELECT * FROM missions;"
+
+# Data Configuration (all layers)
+data:
+  output_dir: "data"
+  formats:
+    - "csv"
+    - "json"
+  compression: false
+
+# Logging Configuration
+logging:
+  level: "info"                     # debug, info, warn, error
+  output: "console"                 # console, file, both
+  log_to_file: true
+  log_dir: "logs"
+
+# OpenAI API Configuration (Gold layer)
+openai:
+  model: "gpt-4o"                   # Model to use: gpt-4o (best available), gpt-4o-mini (faster/cheaper)
+  max_tokens: 4000                  # Maximum tokens per response
+  temperature: 1.0                  # Response creativity
+  timeout_seconds: 90               # API request timeout
+
+# Prompt Configuration (Gold layer - NO HARDCODE)
+prompts:
+  template_file: "prompts/vietnamese_financial_report.txt"
+  system_message_file: "prompts/system_message.txt"
+  week: "Tuần 3 - Tháng 10/2025"    # Current week for reports
+
+# Batch Processing Configuration (Gold layer)
+batch:
+  size: 10                          # Items per batch (increased for better throughput)
+  max_concurrent: 10                # Max parallel API calls (10x faster processing)
+  
+# Rate Limiting Configuration (Gold layer)
+rate_limit:
+  requests_per_minute: 500          # Max requests per minute (OpenAI tier 2: 500 RPM for gpt-4o)
+
+# Retry Configuration (Gold layer)
+retry:
+  max_attempts: 3                   # Maximum retry attempts
+  initial_delay_seconds: 2          # Initial retry delay
+  max_delay_seconds: 10             # Maximum retry delay
+  exponential_backoff: true         # Use exponential backoff
+
+# Table Formatting Configuration (Gold layer output)
+formatting:
+  enable_table: true                # Show results table in console
+  table_width: 150                  # Table width in characters
+  show_detailed_errors: true        # Show detailed error messages
+
+# Monitoring Configuration (Gold layer)
+monitoring:
+  track_token_usage: true           # Track and log token usage
+  track_timing: true                # Track and log processing times
+  show_progress: true               # Show progress during processing

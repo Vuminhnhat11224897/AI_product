@@ -1,0 +1,96 @@
+Dưới đây là dữ liệu thống kê trẻ em (kids_analysis) từ hệ thống backend:
+
+{{KIDS_DATA}}
+
+Quy ước tên ví phải đổi tên ví thành như sau không được nhầm lẫn:
+- joy_wallet (JoyWallet) → Tiêu vặt
+- spending_wallet (SpendingWallet) → Tiết kiệm
+- charity_wallet (CharityWallet) → Từ thiện
+- study_wallet (StudyWallet) → Học tập
+
+
+Chấm điểm kỹ năng (1–5) theo 5 cấp độ tích cực
+Chấm điểm từ 1–5 theo 5 mức độ năng lực, không có điểm 0
+Điểm	Cấp độ	
+1	Bắt đầu 1/5: Bắt đầu
+2	Đang hình thành	 2/5: Đang hình thành
+3	Tiến bộ ổn định	 3/5: Tiến bộ ổn định
+4	Sắp thành thạo	 4/5: Sắp thành thạo
+5	Thành thạo vượt mong đợi  5/5: Thành thạo vượt mong đợi
+
+Hãy tạo một báo cáo chi tiết theo template sau và TRẢ VỀ CHÍNH XÁC FORMAT JSON (không thêm markdown, không thêm text khác):
+
+{
+  "child_name": "{{CHILD_NAME}}",
+  "week": "{{WEEK}}",
+  
+  "financial_tendencies": [
+    {
+      "type": "[Tên xu hướng phù hợp với dữ liệu]", Phần này có thể tạo một type nghe khá hay như "Nhà đầu tư tương lai"
+      "description": "[Mô tả xu hướng dựa trên phân tích cụ thể]",
+      "suggestion": "[Gợi ý cụ thể và thực tế]"
+    }
+  ],
+  
+  "performance_sections": [
+    {
+      "title": "Tự quản lý tài chính",
+      "level": "[Mô tả level]",
+      "score": [1-5],
+      "summary": "[Phân tích chi tiết dựa trên số lần nhận tiền, cách phân bổ vào các ví]"
+    },
+    {
+      "title": "Xu hướng tiêu dùng",
+      "level": "[Mô tả level]",
+      "score": [1-5],
+      "summary": "[Phân tích tỷ lệ chi tiêu của từng ví, đặc biệt ví tiêu vặt và tiết kiệm. Sử dụng cụm 'chi tiêu từ ví tiêu vặt' hoặc 'chi tiêu ví tiết kiệm' thay vì viết hoa các từ giữa câu]"
+    },
+    {
+      "title": "Kiên nhẫn đạt mục tiêu",
+      "level": "[Mô tả level]",
+      "score": [1-5],
+      "summary": "[Đánh giá khả năng tiết kiệm dựa trên số dư còn lại các ví. Viết thường các tên ví khi nằm giữa câu]"
+    },
+    {
+      "title": "Chia sẻ và lòng trắc ẩn",
+      "level": "[Mô tả level]",
+      "score": [1-5],
+      "summary": "[Phân tích chi tiêu từ ví từ thiện, tỷ lệ phần trăm so với tổng. Viết 'và' thay vì ký tự đặc biệt]"
+    },
+    {
+      "title": "Mức độ tiến bộ",
+      "level": "[Mô tả level]",
+      "score": [1-5],
+      "summary": "[Đánh giá dựa trên Activity Score và số Mission hoàn thành]"
+    },
+    {
+      "title": "Sự đồng hành cùng con",
+      "level": "[Mô tả level]",
+      "score": [1-5],
+      "summary": "[Đưa ra nhận xét về mức độ tương tác của phụ huynh - có thể giả định]"
+    }
+  ],
+  
+  "next_week_goals": [
+    "[Mục tiêu 1 cho tuần tới]",
+    "[Mục tiêu 2 cho tuần tới]",
+    "[Mục tiêu 3 cho tuần tới]"
+  ],
+  
+  "parent_suggestions": [
+    "[Gợi ý 1 cho phụ huynh]",
+    "[Gợi ý 2 cho phụ huynh]",
+    "[Gợi ý 3 cho phụ huynh]"
+  ]
+}
+
+QUAN TRỌNG:
+1. Chỉ trả về JSON thuần, không thêm markdown hay bất kỳ text nào khác
+2. financial_tendencies phải là ARRAY với 2-5 phần tử tùy thuộc vào dữ liệu của trẻ (linh hoạt, không cố định)
+3. Dùng "performance_sections" thay vì "sections"
+4. Phân tích dựa trên data cụ thể của trẻ
+5. Sử dụng tên ví tiếng Việt: tiêu vặt, tiết kiệm, từ thiện, học tập (VIẾT THƯỜNG khi ở giữa câu)
+6. Dùng dấu "và" thay vì "&" trong title và summary
+7. Không viết hoa các từ không phải đầu câu (ví dụ: "chi tiêu ví tiêu vặt" KHÔNG PHẢI "Chi tiêu Tiêu vặt")
+8. Các số tiền và tên ví trong summary nên viết tự nhiên: "chi tiêu từ ví tiêu vặt là 15,615.07 đồng"
+9. Có thể thêm bớt tùy, chỉnh số lượng của các phần như "parent_suggestions", "next_week_goals", "financial_tendencies" phù hợp với số liệu nhận được 

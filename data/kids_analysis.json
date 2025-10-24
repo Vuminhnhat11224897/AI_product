@@ -1,0 +1,6515 @@
+{
+  "generated_at": "2025-10-17T03:04:51+07:00",
+  "total_kids": 100,
+  "kids": [
+    {
+      "profile": {
+        "profile_id": "3e541862-b467-42ad-a452-23424c04e3cf",
+        "full_name": "Bui Anh Hoa",
+        "nickname": "Bui Anh Hoa",
+        "age": 9,
+        "date_of_birth": "2016-08-17",
+        "total_balance": 401757.88
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 30652.52
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 48668.72
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 15204.02
+        },
+        {
+          "wallet_type": "study",
+          "balance": 18605.79
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 19255.45,
+          "total_received": 36102.91,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 70619.68,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 43324.4,
+          "total_received": 8460.88,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 29315.15,
+        "total_withdraws": 71092.72,
+        "deposit_count": 1,
+        "withdraw_count": 1,
+        "net_amount": -41777.57
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 0,
+        "pending_missions": 3,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 100,
+      "money_received": 44563.79,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-16"
+    },
+    {
+      "profile": {
+        "profile_id": "1d34677e-4ebc-443a-8de3-d7bd9e35ce0d",
+        "full_name": "Bui Anh Yen",
+        "nickname": "Bui Anh Yen",
+        "age": 7,
+        "date_of_birth": "2018-08-21",
+        "total_balance": 440491.39
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 44709.94
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 19426.31
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 42739.47
+        },
+        {
+          "wallet_type": "study",
+          "balance": 92859.61
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 18767.66,
+          "total_received": 46877.31,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 34799.03,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 49895.71,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 200185.65,
+        "deposit_count": 0,
+        "withdraw_count": 4,
+        "net_amount": -200185.65
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 1,
+        "pending_missions": 1,
+        "completion_rate": 50,
+        "total_rewards": 1407.41
+      },
+      "activity_score": 300,
+      "money_received": 46877.31,
+      "money_received_count": 1,
+      "last_activity_date": "2024-10-09"
+    },
+    {
+      "profile": {
+        "profile_id": "a6e710d1-af2e-4c2a-813c-072610710062",
+        "full_name": "Bui Duc Giang",
+        "nickname": "Bui Duc Giang",
+        "age": 14,
+        "date_of_birth": "2011-05-26",
+        "total_balance": 465465.58
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 31030.2
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 54268.98
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 92331.4
+        },
+        {
+          "wallet_type": "study",
+          "balance": 44128.06
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 36050.48,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 31316.53,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 17518.34,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 35679.6,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 139134.59,
+        "total_withdraws": 71993.98,
+        "deposit_count": 2,
+        "withdraw_count": 2,
+        "net_amount": 67140.61
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 4365.02
+      },
+      "activity_score": 310,
+      "money_received": 84514.47,
+      "money_received_count": 4,
+      "last_activity_date": "2024-11-29"
+    },
+    {
+      "profile": {
+        "profile_id": "5eb53955-e0a6-4cc6-b0ac-6aa2d5b4d37e",
+        "full_name": "Bui Duc Son",
+        "nickname": "Bui Duc Son",
+        "age": 7,
+        "date_of_birth": "2018-08-10",
+        "total_balance": 162573.23
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 26777.83
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 34779.39
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 10702.31
+        },
+        {
+          "wallet_type": "study",
+          "balance": 21160.57
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 13484.12,
+          "total_received": 48595.57,
+          "transaction_count": 4
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 15615.07,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 7542.9,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 5592.3,
+        "deposit_count": 0,
+        "withdraw_count": 1,
+        "net_amount": -5592.3
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 3908.29
+      },
+      "activity_score": 275,
+      "money_received": 48595.57,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-28"
+    },
+    {
+      "profile": {
+        "profile_id": "259f7c3b-31f3-4048-a6ef-137a761c545f",
+        "full_name": "Bui Thi Em",
+        "nickname": "Bui Thi Em",
+        "age": 13,
+        "date_of_birth": "2012-02-22",
+        "total_balance": 203933.14
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 65596.53
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 19285.02
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 10856.48
+        },
+        {
+          "wallet_type": "study",
+          "balance": 55890.78
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 24295.14,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 16888.09,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 30295.15,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 179655.92,
+        "total_withdraws": 189079.73,
+        "deposit_count": 3,
+        "withdraw_count": 4,
+        "net_amount": -9423.809999999998
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 0,
+        "pending_missions": 4,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 135,
+      "money_received": 24295.14,
+      "money_received_count": 1,
+      "last_activity_date": "2024-12-04"
+    },
+    {
+      "profile": {
+        "profile_id": "a665642d-7f06-433d-8145-e67d95fc9cc1",
+        "full_name": "Bui Van Khanh",
+        "nickname": "Bui Van Khanh",
+        "age": 10,
+        "date_of_birth": "2014-12-18",
+        "total_balance": 95222.97
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 65816.38
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 95236.82
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 78649.77
+        },
+        {
+          "wallet_type": "study",
+          "balance": 47626.44
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 27628.91,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 5374.17,
+          "total_received": 67111.68,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 35253.58,
+          "total_received": 38702.2,
+          "transaction_count": 3
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 175806.54,
+        "total_withdraws": 384261.5,
+        "deposit_count": 2,
+        "withdraw_count": 5,
+        "net_amount": -208454.96
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 2956.73
+      },
+      "activity_score": 375,
+      "money_received": 133442.79,
+      "money_received_count": 5,
+      "last_activity_date": "2024-12-29"
+    },
+    {
+      "profile": {
+        "profile_id": "34343307-7e0c-490e-a83c-f21fb1cd3088",
+        "full_name": "Bui Van Oanh",
+        "nickname": "Bui Van Oanh",
+        "age": 7,
+        "date_of_birth": "2018-06-23",
+        "total_balance": 424688.15
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 35932.69
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 41539.24
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 25214.65
+        },
+        {
+          "wallet_type": "study",
+          "balance": 44997.02
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 15249.66,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 23410.24,
+        "total_withdraws": 72262.44,
+        "deposit_count": 2,
+        "withdraw_count": 2,
+        "net_amount": -48852.2
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 3969.74
+      },
+      "activity_score": 270,
+      "money_received": 15249.66,
+      "money_received_count": 1,
+      "last_activity_date": "2024-10-18"
+    },
+    {
+      "profile": {
+        "profile_id": "b75e804d-11bf-4d59-bb1f-54424a5a9b0c",
+        "full_name": "Bui Van Thu",
+        "nickname": "Bui Van Thu",
+        "age": 10,
+        "date_of_birth": "2015-04-10",
+        "total_balance": 170304.5
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 29407.73
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 33133.32
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 74462.51
+        },
+        {
+          "wallet_type": "study",
+          "balance": 90698.68
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 8587.28,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 54191.39,
+          "total_received": 0,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 128019.43,
+        "deposit_count": 0,
+        "withdraw_count": 3,
+        "net_amount": -128019.43
+      },
+      "missions": {
+        "total_missions": 0,
+        "completed_missions": 0,
+        "pending_missions": 0,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 75,
+      "money_received": 8587.28,
+      "money_received_count": 1,
+      "last_activity_date": "2024-09-08"
+    },
+    {
+      "profile": {
+        "profile_id": "e6a0ca0d-ad7f-44c5-90e0-93a49993f749",
+        "full_name": "Dang Anh Khanh",
+        "nickname": "Dang Anh Khanh",
+        "age": 8,
+        "date_of_birth": "2016-11-07",
+        "total_balance": 195843.98
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 24648.81
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 34932.07
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 84851.96
+        },
+        {
+          "wallet_type": "study",
+          "balance": 24159.29
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 28946.76,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 81476.66,
+          "total_received": 53769.47,
+          "transaction_count": 5
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 27323.3,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 73916.19,
+          "total_received": 55318.35,
+          "transaction_count": 4
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 209730.71,
+        "total_withdraws": 171545.38,
+        "deposit_count": 3,
+        "withdraw_count": 4,
+        "net_amount": 38185.32999999999
+      },
+      "missions": {
+        "total_missions": 0,
+        "completed_missions": 0,
+        "pending_missions": 0,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 215,
+      "money_received": 109087.82,
+      "money_received_count": 4,
+      "last_activity_date": "2024-11-15"
+    },
+    {
+      "profile": {
+        "profile_id": "351eabd3-d227-4549-9e14-e054de0d3d08",
+        "full_name": "Dang Huu Oanh",
+        "nickname": "Dang Huu Oanh",
+        "age": 7,
+        "date_of_birth": "2018-05-24",
+        "total_balance": 376034.19
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 92570.76
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 45478.43
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 91878.83
+        },
+        {
+          "wallet_type": "study",
+          "balance": 70442.75
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 29659.73,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 30886.73,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 80082.23,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 12531.45,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 42705.61,
+        "total_withdraws": 56745.65,
+        "deposit_count": 1,
+        "withdraw_count": 1,
+        "net_amount": -14040.04
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 2,
+        "pending_missions": 2,
+        "completion_rate": 50,
+        "total_rewards": 3620.47
+      },
+      "activity_score": 480,
+      "money_received": 30886.73,
+      "money_received_count": 1,
+      "last_activity_date": "2024-11-04"
+    },
+    {
+      "profile": {
+        "profile_id": "a42fd69d-b097-46cd-b968-d2c5b0a4100a",
+        "full_name": "Dang Minh An",
+        "nickname": "Dang Minh An",
+        "age": 15,
+        "date_of_birth": "2010-09-18",
+        "total_balance": 149264.93
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 47281.28
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 23017.9
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 24647.6
+        },
+        {
+          "wallet_type": "study",
+          "balance": 72684.69
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 39549.92,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 44729.49,
+          "total_received": 32390.23,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 127025.58,
+        "total_withdraws": 108225.69,
+        "deposit_count": 3,
+        "withdraw_count": 2,
+        "net_amount": 18799.89
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 3,
+        "pending_missions": 0,
+        "completion_rate": 100,
+        "total_rewards": 5737.5
+      },
+      "activity_score": 715,
+      "money_received": 71940.15,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-16"
+    },
+    {
+      "profile": {
+        "profile_id": "7cafaf2e-9520-4fae-bf0a-0b0c91fd805d",
+        "full_name": "Dang Quang Khanh",
+        "nickname": "Dang Quang Khanh",
+        "age": 14,
+        "date_of_birth": "2010-12-28",
+        "total_balance": 415211.7
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 18537.74
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 12616.3
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 11982.82
+        },
+        {
+          "wallet_type": "study",
+          "balance": 77157.72
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 17719.08,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 18216.21,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 77372.14,
+        "total_withdraws": 177019.98,
+        "deposit_count": 1,
+        "withdraw_count": 3,
+        "net_amount": -99647.84000000001
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 4,
+        "pending_missions": 0,
+        "completion_rate": 100,
+        "total_rewards": 12970.05
+      },
+      "activity_score": 890,
+      "money_received": 0,
+      "money_received_count": 0,
+      "last_activity_date": "2024-12-30"
+    },
+    {
+      "profile": {
+        "profile_id": "0e328b43-69e2-47a6-90b5-b33fac5c5969",
+        "full_name": "Dang Thanh Xuan",
+        "nickname": "Dang Thanh Xuan",
+        "age": 12,
+        "date_of_birth": "2013-01-16",
+        "total_balance": 243607.46
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 90569.38
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 66023.67
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 72656.47
+        },
+        {
+          "wallet_type": "study",
+          "balance": 21686.58
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 36548.93,
+          "total_received": 5792.12,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 28275.22,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 31125.68,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 110295.71,
+        "deposit_count": 0,
+        "withdraw_count": 3,
+        "net_amount": -110295.71
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 1,
+        "pending_missions": 3,
+        "completion_rate": 25,
+        "total_rewards": 1575.66
+      },
+      "activity_score": 285,
+      "money_received": 34067.34,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-29"
+    },
+    {
+      "profile": {
+        "profile_id": "2db66e5a-f306-45d5-9286-20528411b4a4",
+        "full_name": "Dang Thi Quan",
+        "nickname": "Dang Thi Quan",
+        "age": 13,
+        "date_of_birth": "2012-05-03",
+        "total_balance": 413750.93
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 60640.16
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 14964.54
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 91360.77
+        },
+        {
+          "wallet_type": "study",
+          "balance": 80580.25
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 29895.8,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 44429,
+          "total_received": 36052.51,
+          "transaction_count": 3
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 45112.35,
+        "total_withdraws": 86917,
+        "deposit_count": 1,
+        "withdraw_count": 2,
+        "net_amount": -41804.65
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 4514.12
+      },
+      "activity_score": 295,
+      "money_received": 36052.51,
+      "money_received_count": 1,
+      "last_activity_date": "2024-12-26"
+    },
+    {
+      "profile": {
+        "profile_id": "ade79e88-afa3-43f7-86e9-7d28f87aa360",
+        "full_name": "Dang Thu Giang",
+        "nickname": "Dang Thu Giang",
+        "age": 9,
+        "date_of_birth": "2016-05-04",
+        "total_balance": 121012.3
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 33127.31
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 28243.04
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 74981.28
+        },
+        {
+          "wallet_type": "study",
+          "balance": 53599.57
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 13009.84,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 48881.8,
+          "total_received": 68056.43,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 35717.61,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 11895.11,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 63920.71,
+        "total_withdraws": 130432.55,
+        "deposit_count": 1,
+        "withdraw_count": 3,
+        "net_amount": -66511.84
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 4699.22
+      },
+      "activity_score": 320,
+      "money_received": 79951.54,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-27"
+    },
+    {
+      "profile": {
+        "profile_id": "0511432b-c4df-491e-b6c3-edb88a82f974",
+        "full_name": "Dinh Huu Hoa",
+        "nickname": "Dinh Huu Hoa",
+        "age": 13,
+        "date_of_birth": "2012-09-26",
+        "total_balance": 260534.87
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 57563.55
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 22114.29
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 62539.89
+        },
+        {
+          "wallet_type": "study",
+          "balance": 34969.34
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 12561.15,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 28865.85,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 57757.39,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 40088.61,
+          "total_received": 25580.05,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 84346.04,
+        "total_withdraws": 68897.48,
+        "deposit_count": 2,
+        "withdraw_count": 2,
+        "net_amount": 15448.559999999998
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 1030.39
+      },
+      "activity_score": 330,
+      "money_received": 124764.44,
+      "money_received_count": 6,
+      "last_activity_date": "2024-12-14"
+    },
+    {
+      "profile": {
+        "profile_id": "b9025d01-88d5-4bc2-a6c1-974e7d6f987e",
+        "full_name": "Dinh Huu Nam",
+        "nickname": "Dinh Huu Nam",
+        "age": 13,
+        "date_of_birth": "2011-11-16",
+        "total_balance": 289467.82
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 21368.96
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 68065.26
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 26169
+        },
+        {
+          "wallet_type": "study",
+          "balance": 88497.48
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 10307.54,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 46727.8,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 108858.81,
+          "total_received": 17198.64,
+          "transaction_count": 4
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 121001.02,
+        "total_withdraws": 111220.33,
+        "deposit_count": 3,
+        "withdraw_count": 3,
+        "net_amount": 9780.690000000002
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 2,
+        "pending_missions": 2,
+        "completion_rate": 50,
+        "total_rewards": 4052.3
+      },
+      "activity_score": 550,
+      "money_received": 74233.98,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-20"
+    },
+    {
+      "profile": {
+        "profile_id": "0fa0f62f-5f7d-496b-bd2a-80c30b5b3e58",
+        "full_name": "Dinh Minh Xuan",
+        "nickname": "Dinh Minh Xuan",
+        "age": 13,
+        "date_of_birth": "2012-03-06",
+        "total_balance": 418818.89
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 97132.13
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 27129.27
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 16346.56
+        },
+        {
+          "wallet_type": "study",
+          "balance": 35460.69
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 38543.1,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 31379.78,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 70918.33,
+        "total_withdraws": 6580.54,
+        "deposit_count": 2,
+        "withdraw_count": 1,
+        "net_amount": 64337.79
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 2,
+        "pending_missions": 2,
+        "completion_rate": 50,
+        "total_rewards": 8969.02
+      },
+      "activity_score": 465,
+      "money_received": 69922.88,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-06"
+    },
+    {
+      "profile": {
+        "profile_id": "6f181f30-a497-4a57-8ed3-76d11c567c64",
+        "full_name": "Dinh Quang Phong",
+        "nickname": "Dinh Quang Phong",
+        "age": 13,
+        "date_of_birth": "2012-01-11",
+        "total_balance": 189165.03
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 11041.89
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 87109.34
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 72507.48
+        },
+        {
+          "wallet_type": "study",
+          "balance": 16133.1
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 44656.49,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 49117.43,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 189450.4,
+        "total_withdraws": 0,
+        "deposit_count": 4,
+        "withdraw_count": 0,
+        "net_amount": 189450.4
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 4352.75
+      },
+      "activity_score": 280,
+      "money_received": 0,
+      "money_received_count": 0,
+      "last_activity_date": "2024-12-13"
+    },
+    {
+      "profile": {
+        "profile_id": "a9c5ff8e-57c3-4c94-9e1b-ac2897d2807d",
+        "full_name": "Dinh Thi Oanh",
+        "nickname": "Dinh Thi Oanh",
+        "age": 8,
+        "date_of_birth": "2017-10-10",
+        "total_balance": 59242.55
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 87952.27
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 24222.84
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 40009.5
+        },
+        {
+          "wallet_type": "study",
+          "balance": 74332.68
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 44575.76,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 11491.11,
+          "total_received": 13328.11,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 15135.7,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 164316.33,
+        "total_withdraws": 36229.15,
+        "deposit_count": 2,
+        "withdraw_count": 1,
+        "net_amount": 128087.18
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 0,
+        "pending_missions": 3,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 85,
+      "money_received": 57903.87,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-12"
+    },
+    {
+      "profile": {
+        "profile_id": "3818ee3c-ab74-4e49-8ee1-0b38b30aa64b",
+        "full_name": "Dinh Thi Yen",
+        "nickname": "Dinh Thi Yen",
+        "age": 15,
+        "date_of_birth": "2010-09-21",
+        "total_balance": 121691.75
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 83538.65
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 90754.2
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 89985.75
+        },
+        {
+          "wallet_type": "study",
+          "balance": 12690.46
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 45055.16,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 28078.12,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 45838.66,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 47535.24,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 96913.8,
+        "deposit_count": 0,
+        "withdraw_count": 2,
+        "net_amount": -96913.8
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 2,
+        "pending_missions": 1,
+        "completion_rate": 66.66666666666666,
+        "total_rewards": 8177.15
+      },
+      "activity_score": 470,
+      "money_received": 73133.28,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-30"
+    },
+    {
+      "profile": {
+        "profile_id": "cdff93b1-77fd-44ec-9a38-71f235fbba72",
+        "full_name": "Do Anh Son",
+        "nickname": "Do Anh Son",
+        "age": 12,
+        "date_of_birth": "2013-03-21",
+        "total_balance": 458833.94
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 10481.65
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 59545.35
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 65111.9
+        },
+        {
+          "wallet_type": "study",
+          "balance": 86007.2
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "spending",
+          "total_spent": 23111.82,
+          "total_received": 73370.8,
+          "transaction_count": 3
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 51430.62,
+        "total_withdraws": 129656.23,
+        "deposit_count": 2,
+        "withdraw_count": 2,
+        "net_amount": -78225.60999999999
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 2,
+        "pending_missions": 2,
+        "completion_rate": 50,
+        "total_rewards": 4940.17
+      },
+      "activity_score": 490,
+      "money_received": 73370.8,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-13"
+    },
+    {
+      "profile": {
+        "profile_id": "fd6716e6-1953-40f6-96cb-4bf7267d4dea",
+        "full_name": "Do Kim Xuan",
+        "nickname": "Do Kim Xuan",
+        "age": 13,
+        "date_of_birth": "2012-03-02",
+        "total_balance": 107632.5
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 58965.44
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 88246.56
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 19322.6
+        },
+        {
+          "wallet_type": "study",
+          "balance": 67326.28
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 47573.08,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 7222.45,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 81184.05,
+        "total_withdraws": 40808.21,
+        "deposit_count": 1,
+        "withdraw_count": 2,
+        "net_amount": 40375.840000000004
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 0,
+        "pending_missions": 2,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 65,
+      "money_received": 7222.45,
+      "money_received_count": 1,
+      "last_activity_date": "2024-12-14"
+    },
+    {
+      "profile": {
+        "profile_id": "b7502627-1b70-4635-ae1a-c47c7d2ac727",
+        "full_name": "Do Thanh Uyen",
+        "nickname": "Do Thanh Uyen",
+        "age": 15,
+        "date_of_birth": "2010-06-24",
+        "total_balance": 309695.51
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 33326.65
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 98648.75
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 72864.15
+        },
+        {
+          "wallet_type": "study",
+          "balance": 16575.17
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 42852,
+          "total_received": 33697.25,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 68607.93,
+          "total_received": 36912.19,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 18068.15,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 209530.34,
+        "total_withdraws": 0,
+        "deposit_count": 5,
+        "withdraw_count": 0,
+        "net_amount": 209530.34
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 1,
+        "pending_missions": 1,
+        "completion_rate": 50,
+        "total_rewards": 4162.57
+      },
+      "activity_score": 335,
+      "money_received": 88677.59,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-06"
+    },
+    {
+      "profile": {
+        "profile_id": "895700c2-d074-4758-96e8-3ddb3cf28fb3",
+        "full_name": "Do Thu Sang",
+        "nickname": "Do Thu Sang",
+        "age": 12,
+        "date_of_birth": "2013-05-25",
+        "total_balance": 397147.9
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 70429.89
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 74392.7
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 31858.38
+        },
+        {
+          "wallet_type": "study",
+          "balance": 53548.94
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 11819.84,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 32644.51,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 27076.43,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 47811.53,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 19695.8,
+        "total_withdraws": 68695.84,
+        "deposit_count": 1,
+        "withdraw_count": 2,
+        "net_amount": -49000.03999999999
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 3787.02
+      },
+      "activity_score": 295,
+      "money_received": 32644.51,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-25"
+    },
+    {
+      "profile": {
+        "profile_id": "dd9db3ec-f60a-46f1-bf15-d3cbdeae5f70",
+        "full_name": "Duong Anh Van",
+        "nickname": "Duong Anh Van",
+        "age": 15,
+        "date_of_birth": "2010-02-05",
+        "total_balance": 164770.34
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 55231.48
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 40431
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 10572.35
+        },
+        {
+          "wallet_type": "study",
+          "balance": 54914.04
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 33576.27,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 8329.7,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 90400.41,
+        "total_withdraws": 98991.31,
+        "deposit_count": 1,
+        "withdraw_count": 1,
+        "net_amount": -8590.899999999994
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 1,
+        "pending_missions": 3,
+        "completion_rate": 25,
+        "total_rewards": 1720.68
+      },
+      "activity_score": 250,
+      "money_received": 33576.27,
+      "money_received_count": 1,
+      "last_activity_date": "2024-11-25"
+    },
+    {
+      "profile": {
+        "profile_id": "04316791-0a21-4d9c-b7b1-c6a846c6b8e5",
+        "full_name": "Duong Bich Tuan",
+        "nickname": "Duong Bich Tuan",
+        "age": 7,
+        "date_of_birth": "2018-07-16",
+        "total_balance": 475959.43
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 78050.67
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 42136.24
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 60458.78
+        },
+        {
+          "wallet_type": "study",
+          "balance": 49465.21
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 8122.82,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 30527.91,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 88550.83,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 41276.89,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 90022.51,
+        "total_withdraws": 140257.6,
+        "deposit_count": 2,
+        "withdraw_count": 2,
+        "net_amount": -50235.09000000001
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 1,
+        "pending_missions": 1,
+        "completion_rate": 50,
+        "total_rewards": 3374.74
+      },
+      "activity_score": 320,
+      "money_received": 129827.72,
+      "money_received_count": 4,
+      "last_activity_date": "2024-11-13"
+    },
+    {
+      "profile": {
+        "profile_id": "090296c8-fff3-4ad9-b743-b1e857ea01d5",
+        "full_name": "Duong Kim Nam",
+        "nickname": "Duong Kim Nam",
+        "age": 11,
+        "date_of_birth": "2014-01-15",
+        "total_balance": 301432.33
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 66560.87
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 90169.71
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 74045.77
+        },
+        {
+          "wallet_type": "study",
+          "balance": 57119.01
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 31651.72,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 11047.82,
+          "total_received": 55064.49,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 39380.12,
+          "total_received": 30473.04,
+          "transaction_count": 3
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 64736.39,
+        "total_withdraws": 157197.88,
+        "deposit_count": 1,
+        "withdraw_count": 3,
+        "net_amount": -92461.49
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 592.04
+      },
+      "activity_score": 330,
+      "money_received": 117189.25,
+      "money_received_count": 4,
+      "last_activity_date": "2024-11-14"
+    },
+    {
+      "profile": {
+        "profile_id": "c175c7f0-696a-4c4a-a23d-42e160bf4f61",
+        "full_name": "Duong Kim Quan",
+        "nickname": "Duong Kim Quan",
+        "age": 10,
+        "date_of_birth": "2015-03-28",
+        "total_balance": 460387.71
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 44136.29
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 35182.31
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 63319.24
+        },
+        {
+          "wallet_type": "study",
+          "balance": 65655.89
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 92722.79,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 59481.43,
+        "total_withdraws": 0,
+        "deposit_count": 1,
+        "withdraw_count": 0,
+        "net_amount": 59481.43
+      },
+      "missions": {
+        "total_missions": 5,
+        "completed_missions": 4,
+        "pending_missions": 1,
+        "completion_rate": 80,
+        "total_rewards": 9919.86
+      },
+      "activity_score": 835,
+      "money_received": 92722.79,
+      "money_received_count": 2,
+      "last_activity_date": "2024-09-11"
+    },
+    {
+      "profile": {
+        "profile_id": "5a2d1c21-618a-41dc-a2b4-7d118c725a91",
+        "full_name": "Duong Minh Linh",
+        "nickname": "Duong Minh Linh",
+        "age": 10,
+        "date_of_birth": "2015-09-15",
+        "total_balance": 305494.21
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 90705.46
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 44718.15
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 53653.64
+        },
+        {
+          "wallet_type": "study",
+          "balance": 80020.77
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 72450.31,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 121802.92,
+          "total_received": 0,
+          "transaction_count": 4
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 45470.74,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 73931.66,
+          "transaction_count": 3
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 58996.37,
+        "deposit_count": 0,
+        "withdraw_count": 1,
+        "net_amount": -58996.37
+      },
+      "missions": {
+        "total_missions": 1,
+        "completed_missions": 0,
+        "pending_missions": 1,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 115,
+      "money_received": 73931.66,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-27"
+    },
+    {
+      "profile": {
+        "profile_id": "d3c073a9-d784-4dbf-a28c-a7b8ea9c68f1",
+        "full_name": "Duong Thu Thu",
+        "nickname": "Duong Thu Thu",
+        "age": 12,
+        "date_of_birth": "2013-02-28",
+        "total_balance": 56308.49
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 96171.71
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 10483.88
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 54869.11
+        },
+        {
+          "wallet_type": "study",
+          "balance": 56680.65
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 44460.3,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 44367.61,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 43452.97,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 74603.42,
+        "total_withdraws": 0,
+        "deposit_count": 1,
+        "withdraw_count": 0,
+        "net_amount": 74603.42
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 2,
+        "pending_missions": 1,
+        "completion_rate": 66.66666666666666,
+        "total_rewards": 4913.69
+      },
+      "activity_score": 445,
+      "money_received": 87820.58,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-27"
+    },
+    {
+      "profile": {
+        "profile_id": "72eb6882-15c9-4727-ad01-bcde1d1cc887",
+        "full_name": "Hoang Kim Oanh",
+        "nickname": "Hoang Kim Oanh",
+        "age": 12,
+        "date_of_birth": "2013-05-05",
+        "total_balance": 111284.29
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 21589.75
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 30914.18
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 77275.23
+        },
+        {
+          "wallet_type": "study",
+          "balance": 15061.71
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 15055,
+          "total_received": 79842.98,
+          "transaction_count": 4
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 8715.81,
+          "total_received": 70013.34,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 31539.91,
+          "total_received": 94520.06,
+          "transaction_count": 4
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 31095.76,
+          "total_received": 0,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 76042.96,
+        "total_withdraws": 38518.82,
+        "deposit_count": 2,
+        "withdraw_count": 1,
+        "net_amount": 37524.14000000001
+      },
+      "missions": {
+        "total_missions": 0,
+        "completed_missions": 0,
+        "pending_missions": 0,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 175,
+      "money_received": 244376.38,
+      "money_received_count": 8,
+      "last_activity_date": "2024-12-20"
+    },
+    {
+      "profile": {
+        "profile_id": "8f9bba4e-72d4-4d6a-b20d-45a9bcd650a1",
+        "full_name": "Hoang Van Sang",
+        "nickname": "Hoang Van Sang",
+        "age": 8,
+        "date_of_birth": "2017-06-12",
+        "total_balance": 236186.07
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 47288.52
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 41016.34
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 48610.15
+        },
+        {
+          "wallet_type": "study",
+          "balance": 10754.94
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 40990.68,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 261856.53,
+        "total_withdraws": 0,
+        "deposit_count": 4,
+        "withdraw_count": 0,
+        "net_amount": 261856.53
+      },
+      "missions": {
+        "total_missions": 7,
+        "completed_missions": 1,
+        "pending_missions": 6,
+        "completion_rate": 14.285714285714285,
+        "total_rewards": 4696.5
+      },
+      "activity_score": 270,
+      "money_received": 40990.68,
+      "money_received_count": 1,
+      "last_activity_date": "2024-12-14"
+    },
+    {
+      "profile": {
+        "profile_id": "6d327328-9a55-4a14-913e-645c5e7f06cb",
+        "full_name": "Le Duc Em",
+        "nickname": "Le Duc Em",
+        "age": 9,
+        "date_of_birth": "2016-03-22",
+        "total_balance": 275734.49
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 53309.98
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 31469.01
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 96014
+        },
+        {
+          "wallet_type": "study",
+          "balance": 66618.92
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 16178.83,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 30096.36,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 36656.11,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 105397.5,
+        "total_withdraws": 124215.33,
+        "deposit_count": 2,
+        "withdraw_count": 2,
+        "net_amount": -18817.83
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 3740.49
+      },
+      "activity_score": 310,
+      "money_received": 66752.47,
+      "money_received_count": 4,
+      "last_activity_date": "2024-12-10"
+    },
+    {
+      "profile": {
+        "profile_id": "25b69237-1d3c-4237-87e4-f993707a0eeb",
+        "full_name": "Ly Duc Tuan",
+        "nickname": "Ly Duc Tuan",
+        "age": 12,
+        "date_of_birth": "2013-05-08",
+        "total_balance": 483133.82
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 32193.84
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 25475.2
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 54353.13
+        },
+        {
+          "wallet_type": "study",
+          "balance": 26804.6
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 32927.7,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 30327.8,
+          "total_received": 38833.57,
+          "transaction_count": 4
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 48702.7,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 112303.81,
+        "total_withdraws": 169324.9,
+        "deposit_count": 2,
+        "withdraw_count": 6,
+        "net_amount": -57021.09
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 1,
+        "pending_missions": 1,
+        "completion_rate": 50,
+        "total_rewards": 4491.78
+      },
+      "activity_score": 380,
+      "money_received": 87536.27,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-23"
+    },
+    {
+      "profile": {
+        "profile_id": "55c75cb4-098d-4bcc-92dd-0931e7470426",
+        "full_name": "Ly Kim Linh",
+        "nickname": "Ly Kim Linh",
+        "age": 14,
+        "date_of_birth": "2011-05-10",
+        "total_balance": 264023.83
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 29778.44
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 85397.42
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 83396.2
+        },
+        {
+          "wallet_type": "study",
+          "balance": 84271.73
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 27624.39,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 45855.1,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 14030.91,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 174204.97,
+        "total_withdraws": 53779.44,
+        "deposit_count": 2,
+        "withdraw_count": 1,
+        "net_amount": 120425.53
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 1772.6
+      },
+      "activity_score": 275,
+      "money_received": 87510.4,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-31"
+    },
+    {
+      "profile": {
+        "profile_id": "82494579-605c-498f-8274-23831bc685bb",
+        "full_name": "Ly Thanh Uyen",
+        "nickname": "Ly Thanh Uyen",
+        "age": 15,
+        "date_of_birth": "2010-03-23",
+        "total_balance": 290957.09
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 71275.83
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 37089.18
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 15534.22
+        },
+        {
+          "wallet_type": "study",
+          "balance": 86903.01
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 22176.53,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 16495.04,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 21935.8,
+          "total_received": 76817.19,
+          "transaction_count": 3
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 95792.14,
+        "total_withdraws": 79956.07,
+        "deposit_count": 2,
+        "withdraw_count": 2,
+        "net_amount": 15836.069999999992
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 2,
+        "pending_missions": 1,
+        "completion_rate": 66.66666666666666,
+        "total_rewards": 8536.7
+      },
+      "activity_score": 510,
+      "money_received": 98993.72,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-23"
+    },
+    {
+      "profile": {
+        "profile_id": "33c4d70a-2e3f-449b-bbe2-471121dc5818",
+        "full_name": "Ly Thi Binh",
+        "nickname": "Ly Thi Binh",
+        "age": 9,
+        "date_of_birth": "2016-05-28",
+        "total_balance": 318141.25
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 34811.46
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 51508.46
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 74995.08
+        },
+        {
+          "wallet_type": "study",
+          "balance": 51314.32
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 56160.71,
+          "total_received": 61770.82,
+          "transaction_count": 4
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 18727.16,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 23345.49,
+          "total_received": 20220.67,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 56342.33,
+        "total_withdraws": 271312.9,
+        "deposit_count": 2,
+        "withdraw_count": 4,
+        "net_amount": -214970.57
+      },
+      "missions": {
+        "total_missions": 1,
+        "completed_missions": 0,
+        "pending_missions": 1,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 160,
+      "money_received": 81991.49,
+      "money_received_count": 3,
+      "last_activity_date": "2024-10-25"
+    },
+    {
+      "profile": {
+        "profile_id": "aa53fbe3-2a51-4900-bc4e-a8f72fa91b10",
+        "full_name": "Ngo Anh Khanh",
+        "nickname": "Ngo Anh Khanh",
+        "age": 13,
+        "date_of_birth": "2012-03-18",
+        "total_balance": 255657.94
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 69485.8
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 71821.65
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 63398.65
+        },
+        {
+          "wallet_type": "study",
+          "balance": 38975.94
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 21704.99,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 15902.82,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 46906.38,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 222541.65,
+        "total_withdraws": 163969.87,
+        "deposit_count": 3,
+        "withdraw_count": 2,
+        "net_amount": 58571.78
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 0,
+        "pending_missions": 4,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 105,
+      "money_received": 15902.82,
+      "money_received_count": 1,
+      "last_activity_date": "2024-12-29"
+    },
+    {
+      "profile": {
+        "profile_id": "03ea309b-0f59-4605-b91d-40376865390b",
+        "full_name": "Ngo Bich Son",
+        "nickname": "Ngo Bich Son",
+        "age": 13,
+        "date_of_birth": "2012-04-08",
+        "total_balance": 431133.04
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 47684.05
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 59053.09
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 82763.77
+        },
+        {
+          "wallet_type": "study",
+          "balance": 84029.95
+        }
+      ],
+      "wallet_transactions": null,
+      "profile_transactions": {
+        "total_deposits": 201701.18,
+        "total_withdraws": 0,
+        "deposit_count": 3,
+        "withdraw_count": 0,
+        "net_amount": 201701.18
+      },
+      "missions": {
+        "total_missions": 5,
+        "completed_missions": 2,
+        "pending_missions": 3,
+        "completion_rate": 40,
+        "total_rewards": 7411.87
+      },
+      "activity_score": 445,
+      "money_received": 0,
+      "money_received_count": 0,
+      "last_activity_date": "2024-12-17"
+    },
+    {
+      "profile": {
+        "profile_id": "cc1aef07-1410-4269-835a-2b40a3181eba",
+        "full_name": "Ngo Huu Nam",
+        "nickname": "Ngo Huu Nam",
+        "age": 9,
+        "date_of_birth": "2016-10-07",
+        "total_balance": 306054.33
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 73909.84
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 42577.51
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 59330.84
+        },
+        {
+          "wallet_type": "study",
+          "balance": 82042.68
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 72850.35,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 11874.5,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 40183.33,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 126376.29,
+        "total_withdraws": 200135.98,
+        "deposit_count": 3,
+        "withdraw_count": 3,
+        "net_amount": -73759.69000000002
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 3,
+        "pending_missions": 1,
+        "completion_rate": 75,
+        "total_rewards": 7891.5
+      },
+      "activity_score": 740,
+      "money_received": 113033.68,
+      "money_received_count": 4,
+      "last_activity_date": "2024-12-30"
+    },
+    {
+      "profile": {
+        "profile_id": "efa3ccea-1989-4a7e-9e08-f3f00e4479d7",
+        "full_name": "Ngo Kim Cuong",
+        "nickname": "Ngo Kim Cuong",
+        "age": 7,
+        "date_of_birth": "2018-09-25",
+        "total_balance": 292668.18
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 75013.68
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 77136.72
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 89023.3
+        },
+        {
+          "wallet_type": "study",
+          "balance": 83380.44
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 54733.76,
+          "total_received": 30510.04,
+          "transaction_count": 4
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 31482.31,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 26801.78,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 112639.15,
+        "deposit_count": 0,
+        "withdraw_count": 4,
+        "net_amount": -112639.15
+      },
+      "missions": {
+        "total_missions": 6,
+        "completed_missions": 2,
+        "pending_missions": 4,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 6049.76
+      },
+      "activity_score": 530,
+      "money_received": 88794.13,
+      "money_received_count": 5,
+      "last_activity_date": "2024-12-29"
+    },
+    {
+      "profile": {
+        "profile_id": "cd1836f9-bdeb-4922-a4f7-fd8564a87179",
+        "full_name": "Ngo Quang Minh",
+        "nickname": "Ngo Quang Minh",
+        "age": 14,
+        "date_of_birth": "2011-01-21",
+        "total_balance": 337567.64
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 81027.73
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 57674.24
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 61011.21
+        },
+        {
+          "wallet_type": "study",
+          "balance": 48952.54
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 33746.72,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 157828.64,
+          "total_received": 0,
+          "transaction_count": 4
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 26533.37,
+          "total_received": 30459.06,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 13854.49,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 49121.38,
+        "deposit_count": 0,
+        "withdraw_count": 1,
+        "net_amount": -49121.38
+      },
+      "missions": {
+        "total_missions": 1,
+        "completed_missions": 0,
+        "pending_missions": 1,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 105,
+      "money_received": 64205.78,
+      "money_received_count": 3,
+      "last_activity_date": "2024-10-31"
+    },
+    {
+      "profile": {
+        "profile_id": "78cfa8ac-5f6b-451e-93f9-3b421be3b563",
+        "full_name": "Ngo Thanh Hanh",
+        "nickname": "Ngo Thanh Hanh",
+        "age": 7,
+        "date_of_birth": "2017-12-07",
+        "total_balance": 264905.75
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 56812.46
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 88746.79
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 10309.46
+        },
+        {
+          "wallet_type": "study",
+          "balance": 11079.42
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 33085.34,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 48418.4,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 47839.9,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 44203.42,
+          "total_received": 37256.07,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 96295.4,
+        "total_withdraws": 0,
+        "deposit_count": 1,
+        "withdraw_count": 0,
+        "net_amount": 96295.4
+      },
+      "missions": {
+        "total_missions": 5,
+        "completed_missions": 4,
+        "pending_missions": 1,
+        "completion_rate": 80,
+        "total_rewards": 12380.04
+      },
+      "activity_score": 875,
+      "money_received": 118181.31,
+      "money_received_count": 4,
+      "last_activity_date": "2024-12-04"
+    },
+    {
+      "profile": {
+        "profile_id": "d6ed61e9-b79b-4e66-93fb-e821428d1c1a",
+        "full_name": "Ngo Thanh Hoa",
+        "nickname": "Ngo Thanh Hoa",
+        "age": 14,
+        "date_of_birth": "2010-11-24",
+        "total_balance": 416154.79
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 61040.9
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 26369.65
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 57813.73
+        },
+        {
+          "wallet_type": "study",
+          "balance": 44583.94
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 8325.18,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 141339.48,
+        "total_withdraws": 32553.71,
+        "deposit_count": 4,
+        "withdraw_count": 2,
+        "net_amount": 108785.77000000002
+      },
+      "missions": {
+        "total_missions": 0,
+        "completed_missions": 0,
+        "pending_missions": 0,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 100,
+      "money_received": 8325.18,
+      "money_received_count": 1,
+      "last_activity_date": "2024-12-11"
+    },
+    {
+      "profile": {
+        "profile_id": "dac90de0-253f-4943-8300-5ef86c18a328",
+        "full_name": "Ngo Thanh Oanh",
+        "nickname": "Ngo Thanh Oanh",
+        "age": 14,
+        "date_of_birth": "2011-07-18",
+        "total_balance": 183864.56
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 51609.12
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 86512.92
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 43497.66
+        },
+        {
+          "wallet_type": "study",
+          "balance": 31845.37
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 48586.24,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 8564.1,
+          "total_received": 38698.43,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 114696.09,
+        "total_withdraws": 214672.92,
+        "deposit_count": 2,
+        "withdraw_count": 4,
+        "net_amount": -99976.83000000002
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 1,
+        "pending_missions": 1,
+        "completion_rate": 50,
+        "total_rewards": 2190.83
+      },
+      "activity_score": 320,
+      "money_received": 38698.43,
+      "money_received_count": 1,
+      "last_activity_date": "2024-10-02"
+    },
+    {
+      "profile": {
+        "profile_id": "8e188c1e-4572-455a-819d-9b74a2cfbe9f",
+        "full_name": "Ngo Thi Duc",
+        "nickname": "Ngo Thi Duc",
+        "age": 7,
+        "date_of_birth": "2018-07-28",
+        "total_balance": 293635.79
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 46086.01
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 93604.97
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 44984.78
+        },
+        {
+          "wallet_type": "study",
+          "balance": 53045.25
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 21925.13,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 19321.37,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 96013.74,
+        "total_withdraws": 121787.29,
+        "deposit_count": 3,
+        "withdraw_count": 2,
+        "net_amount": -25773.54999999999
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 1,
+        "pending_missions": 3,
+        "completion_rate": 25,
+        "total_rewards": 1693.9
+      },
+      "activity_score": 295,
+      "money_received": 19321.37,
+      "money_received_count": 1,
+      "last_activity_date": "2024-11-16"
+    },
+    {
+      "profile": {
+        "profile_id": "e1f0ce71-a0f2-4d96-8ccc-4347932bd835",
+        "full_name": "Ngo Thi Oanh",
+        "nickname": "Ngo Thi Oanh",
+        "age": 11,
+        "date_of_birth": "2014-03-06",
+        "total_balance": 489216.9
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 64638.07
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 71078.43
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 56184.02
+        },
+        {
+          "wallet_type": "study",
+          "balance": 74852.99
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 37297.16,
+          "total_received": 40636.68,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 27621.16,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 5514.45,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 182354.41,
+        "total_withdraws": 0,
+        "deposit_count": 3,
+        "withdraw_count": 0,
+        "net_amount": 182354.41
+      },
+      "missions": {
+        "total_missions": 5,
+        "completed_missions": 1,
+        "pending_missions": 4,
+        "completion_rate": 20,
+        "total_rewards": 4116.95
+      },
+      "activity_score": 295,
+      "money_received": 40636.68,
+      "money_received_count": 1,
+      "last_activity_date": "2024-12-29"
+    },
+    {
+      "profile": {
+        "profile_id": "ea5b633d-0720-4aab-ac91-18ba871d3404",
+        "full_name": "Ngo Thu An",
+        "nickname": "Ngo Thu An",
+        "age": 9,
+        "date_of_birth": "2016-02-14",
+        "total_balance": 82984.43
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 92496.7
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 99713.52
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 69983.53
+        },
+        {
+          "wallet_type": "study",
+          "balance": 61876.98
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 19211.76,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 79841.96,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 122530.57,
+          "total_received": 0,
+          "transaction_count": 3
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 206031.8,
+        "total_withdraws": 139243.27,
+        "deposit_count": 3,
+        "withdraw_count": 3,
+        "net_amount": 66788.53
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 0,
+        "pending_missions": 2,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 160,
+      "money_received": 99053.72,
+      "money_received_count": 4,
+      "last_activity_date": "2024-12-11"
+    },
+    {
+      "profile": {
+        "profile_id": "862fd5cf-7c68-4754-b72f-6dcc3f758e7b",
+        "full_name": "Ngo Thu Bao",
+        "nickname": "Ngo Thu Bao",
+        "age": 14,
+        "date_of_birth": "2011-07-25",
+        "total_balance": 152278.26
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 59296.16
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 33149.65
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 19433.45
+        },
+        {
+          "wallet_type": "study",
+          "balance": 31306.42
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 21647.15,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 15901.11,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 29077.42,
+          "total_received": 5856.58,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 59266.5,
+        "total_withdraws": 47003.39,
+        "deposit_count": 2,
+        "withdraw_count": 1,
+        "net_amount": 12263.11
+      },
+      "missions": {
+        "total_missions": 0,
+        "completed_missions": 0,
+        "pending_missions": 0,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 85,
+      "money_received": 43404.84,
+      "money_received_count": 3,
+      "last_activity_date": "2024-09-08"
+    },
+    {
+      "profile": {
+        "profile_id": "ca369568-3d50-41e1-9905-ded1bcee0db9",
+        "full_name": "Nguyen Anh Phong",
+        "nickname": "Nguyen Anh Phong",
+        "age": 7,
+        "date_of_birth": "2017-11-06",
+        "total_balance": 196421.8
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 48127.44
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 61344.19
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 16666.62
+        },
+        {
+          "wallet_type": "study",
+          "balance": 13947.42
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 21197.82,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 43297.34,
+          "total_received": 15112.19,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 18397.76,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 44570.32,
+          "total_received": 32304.67,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 199886.72,
+        "total_withdraws": 113052.91,
+        "deposit_count": 3,
+        "withdraw_count": 2,
+        "net_amount": 86833.81
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 2,
+        "pending_missions": 2,
+        "completion_rate": 50,
+        "total_rewards": 5270.28
+      },
+      "activity_score": 535,
+      "money_received": 65814.62,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-14"
+    },
+    {
+      "profile": {
+        "profile_id": "4026b17a-cffe-4e30-a7de-947292a0462d",
+        "full_name": "Nguyen Bich Minh",
+        "nickname": "Nguyen Bich Minh",
+        "age": 15,
+        "date_of_birth": "2010-07-23",
+        "total_balance": 228319.21
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 52766.11
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 48751.05
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 70798.7
+        },
+        {
+          "wallet_type": "study",
+          "balance": 84940.65
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 21428.39,
+          "total_received": 38897.6,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 14933.8,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 44597.94,
+          "total_received": 55065.44,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 9429.09,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 10629.49,
+        "total_withdraws": 6291,
+        "deposit_count": 1,
+        "withdraw_count": 1,
+        "net_amount": 4338.49
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 2,
+        "pending_missions": 0,
+        "completion_rate": 100,
+        "total_rewards": 1873.18
+      },
+      "activity_score": 500,
+      "money_received": 93963.04,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-15"
+    },
+    {
+      "profile": {
+        "profile_id": "499287f6-6018-4164-a59b-949afb4fe73c",
+        "full_name": "Nguyen Duc Binh",
+        "nickname": "Nguyen Duc Binh",
+        "age": 13,
+        "date_of_birth": "2012-05-18",
+        "total_balance": 251179.48
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 27812.64
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 45342.53
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 65451.63
+        },
+        {
+          "wallet_type": "study",
+          "balance": 82508.43
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 62113.66,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 43899.66,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 30135.55,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 49813.17,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 28939.59,
+        "total_withdraws": 9759.41,
+        "deposit_count": 1,
+        "withdraw_count": 1,
+        "net_amount": 19180.18
+      },
+      "missions": {
+        "total_missions": 6,
+        "completed_missions": 3,
+        "pending_missions": 3,
+        "completion_rate": 50,
+        "total_rewards": 10773.48
+      },
+      "activity_score": 680,
+      "money_received": 43899.66,
+      "money_received_count": 1,
+      "last_activity_date": "2024-11-05"
+    },
+    {
+      "profile": {
+        "profile_id": "bf1dda32-f8bb-4ca8-9514-d61d20d9c1a7",
+        "full_name": "Nguyen Duc Dung",
+        "nickname": "Nguyen Duc Dung",
+        "age": 12,
+        "date_of_birth": "2013-07-16",
+        "total_balance": 71879.72
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 23896.96
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 71572.74
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 13078.6
+        },
+        {
+          "wallet_type": "study",
+          "balance": 84791.22
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 32755.94,
+          "total_received": 6856.6,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 34184.38,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 168755.64,
+        "deposit_count": 0,
+        "withdraw_count": 2,
+        "net_amount": -168755.64
+      },
+      "missions": {
+        "total_missions": 0,
+        "completed_missions": 0,
+        "pending_missions": 0,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 60,
+      "money_received": 6856.6,
+      "money_received_count": 1,
+      "last_activity_date": "2024-04-13"
+    },
+    {
+      "profile": {
+        "profile_id": "174cc8f3-59cd-4b3e-8e1d-bacc77fd7faf",
+        "full_name": "Nguyen Kim Binh",
+        "nickname": "Nguyen Kim Binh",
+        "age": 12,
+        "date_of_birth": "2013-06-28",
+        "total_balance": 65898.33
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 61580.44
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 11928.49
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 93531.09
+        },
+        {
+          "wallet_type": "study",
+          "balance": 24108.4
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 27015.75,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 31713.48,
+          "total_received": 48804.64,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 22267.94,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 31644.49,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 135327.99,
+        "total_withdraws": 144403.12,
+        "deposit_count": 3,
+        "withdraw_count": 2,
+        "net_amount": -9075.130000000005
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 4,
+        "pending_missions": 0,
+        "completion_rate": 100,
+        "total_rewards": 13962.81
+      },
+      "activity_score": 925,
+      "money_received": 102717.07,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-24"
+    },
+    {
+      "profile": {
+        "profile_id": "da2ac7a4-f073-48f1-86cf-f36c625f4bff",
+        "full_name": "Nguyen Quang Bao",
+        "nickname": "Nguyen Quang Bao",
+        "age": 10,
+        "date_of_birth": "2015-08-26",
+        "total_balance": 365748.61
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 40866.06
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 18925.71
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 74048.61
+        },
+        {
+          "wallet_type": "study",
+          "balance": 97879.61
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 43020.52,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 96317.57,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 42128.19,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 40863.36,
+          "total_received": 87358.34,
+          "transaction_count": 4
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 84159.58,
+        "deposit_count": 0,
+        "withdraw_count": 2,
+        "net_amount": -84159.58
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 4,
+        "pending_missions": 0,
+        "completion_rate": 100,
+        "total_rewards": 9587.73
+      },
+      "activity_score": 910,
+      "money_received": 130378.86,
+      "money_received_count": 4,
+      "last_activity_date": "2024-12-26"
+    },
+    {
+      "profile": {
+        "profile_id": "f7be5bd3-3939-4cf4-afba-32c0050acf26",
+        "full_name": "Nguyen Thanh Minh",
+        "nickname": "Nguyen Thanh Minh",
+        "age": 9,
+        "date_of_birth": "2015-10-22",
+        "total_balance": 173811.67
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 40011.96
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 28458.26
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 80226.12
+        },
+        {
+          "wallet_type": "study",
+          "balance": 95573.34
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 27112.25,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 24127.13,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 73299.85,
+        "total_withdraws": 54168.83,
+        "deposit_count": 1,
+        "withdraw_count": 2,
+        "net_amount": 19131.020000000004
+      },
+      "missions": {
+        "total_missions": 0,
+        "completed_missions": 0,
+        "pending_missions": 0,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 65,
+      "money_received": 0,
+      "money_received_count": 0,
+      "last_activity_date": "2024-11-18"
+    },
+    {
+      "profile": {
+        "profile_id": "f557166a-24cd-475a-85f6-dde1117ad2bb",
+        "full_name": "Nguyen Van Khanh",
+        "nickname": "Nguyen Van Khanh",
+        "age": 14,
+        "date_of_birth": "2011-07-15",
+        "total_balance": 407116.96
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 81545.55
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 60332.49
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 14279.36
+        },
+        {
+          "wallet_type": "study",
+          "balance": 23000.69
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 6557.18,
+          "total_received": 49488.32,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 36184.47,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 334492.72,
+        "total_withdraws": 191353.18,
+        "deposit_count": 8,
+        "withdraw_count": 5,
+        "net_amount": 143139.53999999998
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 2,
+        "pending_missions": 1,
+        "completion_rate": 66.66666666666666,
+        "total_rewards": 4782.09
+      },
+      "activity_score": 635,
+      "money_received": 85672.79,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-06"
+    },
+    {
+      "profile": {
+        "profile_id": "83d2128c-9bc2-4321-9151-57d4dd9a0267",
+        "full_name": "Pham Bich Hanh",
+        "nickname": "Pham Bich Hanh",
+        "age": 11,
+        "date_of_birth": "2014-06-12",
+        "total_balance": 227887.41
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 79295.26
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 14908.87
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 73914.48
+        },
+        {
+          "wallet_type": "study",
+          "balance": 46004.7
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 65409.96,
+          "total_received": 45023.42,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 34484.44,
+          "total_received": 15831.09,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 33088.18,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 244720.62,
+        "total_withdraws": 73653.02,
+        "deposit_count": 4,
+        "withdraw_count": 1,
+        "net_amount": 171067.59999999998
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 3,
+        "pending_missions": 0,
+        "completion_rate": 100,
+        "total_rewards": 8456.21
+      },
+      "activity_score": 745,
+      "money_received": 93942.69,
+      "money_received_count": 3,
+      "last_activity_date": "2024-11-15"
+    },
+    {
+      "profile": {
+        "profile_id": "faed0b24-48fc-4ef5-bc00-a0b0545300a3",
+        "full_name": "Pham Huu Giang",
+        "nickname": "Pham Huu Giang",
+        "age": 12,
+        "date_of_birth": "2013-06-24",
+        "total_balance": 166983.22
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 95043.09
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 56965.9
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 22947.01
+        },
+        {
+          "wallet_type": "study",
+          "balance": 11379.22
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 108297.05,
+          "total_received": 0,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 11194.87,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 45778.94,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 80667.36,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 87634.42,
+        "total_withdraws": 0,
+        "deposit_count": 2,
+        "withdraw_count": 0,
+        "net_amount": 87634.42
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 0,
+        "pending_missions": 3,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 100,
+      "money_received": 126446.3,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-14"
+    },
+    {
+      "profile": {
+        "profile_id": "2ef94706-f612-4ba6-9ee7-aa38d7cbce0e",
+        "full_name": "Pham Minh Giang",
+        "nickname": "Pham Minh Giang",
+        "age": 7,
+        "date_of_birth": "2018-08-12",
+        "total_balance": 406013.34
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 77330.22
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 60036.49
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 57339.93
+        },
+        {
+          "wallet_type": "study",
+          "balance": 81370.58
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 14142.97,
+          "total_received": 45841.51,
+          "transaction_count": 4
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 98195.07,
+          "total_received": 70097.99,
+          "transaction_count": 5
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 138025.92,
+        "total_withdraws": 242788.39,
+        "deposit_count": 4,
+        "withdraw_count": 3,
+        "net_amount": -104762.47
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 2,
+        "pending_missions": 1,
+        "completion_rate": 66.66666666666666,
+        "total_rewards": 5509.76
+      },
+      "activity_score": 595,
+      "money_received": 115939.5,
+      "money_received_count": 5,
+      "last_activity_date": "2024-11-23"
+    },
+    {
+      "profile": {
+        "profile_id": "7f1bdd37-4686-4766-8c94-c02436bd438b",
+        "full_name": "Pham Ngoc Binh",
+        "nickname": "Pham Ngoc Binh",
+        "age": 13,
+        "date_of_birth": "2012-08-03",
+        "total_balance": 374228.79
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 13835.74
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 36083.32
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 14278.53
+        },
+        {
+          "wallet_type": "study",
+          "balance": 87816.21
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 43549.97,
+          "total_received": 7434.58,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 81575.37,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 63100.11,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 171018.57,
+        "total_withdraws": 219742.04,
+        "deposit_count": 2,
+        "withdraw_count": 5,
+        "net_amount": -48723.47
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 2,
+        "pending_missions": 2,
+        "completion_rate": 50,
+        "total_rewards": 6199.5
+      },
+      "activity_score": 575,
+      "money_received": 152110.06,
+      "money_received_count": 6,
+      "last_activity_date": "2024-12-26"
+    },
+    {
+      "profile": {
+        "profile_id": "621209bd-4fd1-43fe-a1ca-19cf1c207391",
+        "full_name": "Pham Ngoc Dung",
+        "nickname": "Pham Ngoc Dung",
+        "age": 10,
+        "date_of_birth": "2014-12-17",
+        "total_balance": 209239.28
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 19878.87
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 74406.47
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 64424.51
+        },
+        {
+          "wallet_type": "study",
+          "balance": 75789.58
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 65035.77,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 66045.98,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 11830.97,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 22783.74,
+        "total_withdraws": 159824.55,
+        "deposit_count": 1,
+        "withdraw_count": 3,
+        "net_amount": -137040.81
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 776.67
+      },
+      "activity_score": 310,
+      "money_received": 66045.98,
+      "money_received_count": 2,
+      "last_activity_date": "2024-11-30"
+    },
+    {
+      "profile": {
+        "profile_id": "a31262a7-1cf6-4f92-baba-e1ccea828a83",
+        "full_name": "Pham Thanh Thu",
+        "nickname": "Pham Thanh Thu",
+        "age": 9,
+        "date_of_birth": "2016-05-05",
+        "total_balance": 98894.01
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 58325.06
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 16379.39
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 68316.5
+        },
+        {
+          "wallet_type": "study",
+          "balance": 75531.85
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 41629.35,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 76748.54,
+          "total_received": 0,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 64406.76,
+        "total_withdraws": 130919.59,
+        "deposit_count": 2,
+        "withdraw_count": 2,
+        "net_amount": -66512.82999999999
+      },
+      "missions": {
+        "total_missions": 1,
+        "completed_missions": 0,
+        "pending_missions": 1,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 100,
+      "money_received": 0,
+      "money_received_count": 0,
+      "last_activity_date": "2024-12-12"
+    },
+    {
+      "profile": {
+        "profile_id": "ea1294a2-7750-47ce-b90b-3589626a54b5",
+        "full_name": "Pham Van Son",
+        "nickname": "Pham Van Son",
+        "age": 12,
+        "date_of_birth": "2013-07-25",
+        "total_balance": 331540.6
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 90100.31
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 35514.18
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 38898.69
+        },
+        {
+          "wallet_type": "study",
+          "balance": 66551.9
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 47689.34,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 49690.65,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 16553.5,
+        "total_withdraws": 92139.43,
+        "deposit_count": 1,
+        "withdraw_count": 2,
+        "net_amount": -75585.93
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 1,
+        "pending_missions": 1,
+        "completion_rate": 50,
+        "total_rewards": 2176.56
+      },
+      "activity_score": 265,
+      "money_received": 47689.34,
+      "money_received_count": 1,
+      "last_activity_date": "2024-12-23"
+    },
+    {
+      "profile": {
+        "profile_id": "7d5e3dd9-3f21-4028-9579-0f0fded0bced",
+        "full_name": "Tran Anh Phong",
+        "nickname": "Tran Anh Phong",
+        "age": 12,
+        "date_of_birth": "2013-06-21",
+        "total_balance": 135899.55
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 64905.18
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 47528.86
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 82929.94
+        },
+        {
+          "wallet_type": "study",
+          "balance": 86611.98
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 81095.85,
+          "total_received": 0,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 33755.19,
+          "total_received": 28830.89,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 35518.56,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 30428.8,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 29045.37,
+        "deposit_count": 0,
+        "withdraw_count": 1,
+        "net_amount": -29045.37
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 0,
+        "pending_missions": 3,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 95,
+      "money_received": 59259.69,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-21"
+    },
+    {
+      "profile": {
+        "profile_id": "103e3678-f58c-4908-b0de-02abbbb5234f",
+        "full_name": "Tran Duc Uyen",
+        "nickname": "Tran Duc Uyen",
+        "age": 8,
+        "date_of_birth": "2017-01-17",
+        "total_balance": 363134.66
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 82477.45
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 54321.25
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 69747.14
+        },
+        {
+          "wallet_type": "study",
+          "balance": 86575.64
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 19739.41,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 39690.35,
+          "total_received": 67112.13,
+          "transaction_count": 4
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 32901.12,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 98991.31,
+        "total_withdraws": 27336.09,
+        "deposit_count": 1,
+        "withdraw_count": 1,
+        "net_amount": 71655.22
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 1,
+        "pending_missions": 3,
+        "completion_rate": 25,
+        "total_rewards": 3452.63
+      },
+      "activity_score": 300,
+      "money_received": 100013.25,
+      "money_received_count": 4,
+      "last_activity_date": "2024-12-28"
+    },
+    {
+      "profile": {
+        "profile_id": "9c477727-05fa-4355-b835-b0d0dca3ecfa",
+        "full_name": "Tran Huu Bao",
+        "nickname": "Tran Huu Bao",
+        "age": 13,
+        "date_of_birth": "2012-05-07",
+        "total_balance": 90303.23
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 80234.5
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 42627.92
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 34416.21
+        },
+        {
+          "wallet_type": "study",
+          "balance": 99157.75
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "spending",
+          "total_spent": 48537.33,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 22875.7,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 57850,
+        "total_withdraws": 62144.96,
+        "deposit_count": 2,
+        "withdraw_count": 1,
+        "net_amount": -4294.959999999999
+      },
+      "missions": {
+        "total_missions": 7,
+        "completed_missions": 5,
+        "pending_missions": 2,
+        "completion_rate": 71.42857142857143,
+        "total_rewards": 19557.82
+      },
+      "activity_score": 1065,
+      "money_received": 22875.7,
+      "money_received_count": 1,
+      "last_activity_date": "2024-11-27"
+    },
+    {
+      "profile": {
+        "profile_id": "7db27d47-bd64-4c5c-81b7-b58879cabf4a",
+        "full_name": "Tran Minh Linh",
+        "nickname": "Tran Minh Linh",
+        "age": 10,
+        "date_of_birth": "2014-11-12",
+        "total_balance": 309688.51
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 99706.55
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 92415.26
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 77394.88
+        },
+        {
+          "wallet_type": "study",
+          "balance": 58217.31
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 40106.59,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 45172.74,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 42375.91,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 38070.49,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 60414.85,
+        "total_withdraws": 0,
+        "deposit_count": 1,
+        "withdraw_count": 0,
+        "net_amount": 60414.85
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 1,
+        "pending_missions": 3,
+        "completion_rate": 25,
+        "total_rewards": 2622.24
+      },
+      "activity_score": 265,
+      "money_received": 82482.5,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-03"
+    },
+    {
+      "profile": {
+        "profile_id": "c8b6381a-1bf1-4d71-95cf-35c83a6e4ee3",
+        "full_name": "Tran Thu Van",
+        "nickname": "Tran Thu Van",
+        "age": 8,
+        "date_of_birth": "2017-09-17",
+        "total_balance": 421378.18
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 90691.98
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 64845.47
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 81560.83
+        },
+        {
+          "wallet_type": "study",
+          "balance": 42073.37
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 11354.89,
+          "total_received": 31753.25,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 38150.53,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 28935.6,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 91744.37,
+        "deposit_count": 0,
+        "withdraw_count": 1,
+        "net_amount": -91744.37
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 2,
+        "pending_missions": 1,
+        "completion_rate": 66.66666666666666,
+        "total_rewards": 6530.29
+      },
+      "activity_score": 475,
+      "money_received": 60688.85,
+      "money_received_count": 4,
+      "last_activity_date": "2024-11-26"
+    },
+    {
+      "profile": {
+        "profile_id": "f2beb8b4-3f04-43e9-8f64-9a86f247e974",
+        "full_name": "Truong Bich Phong",
+        "nickname": "Truong Bich Phong",
+        "age": 9,
+        "date_of_birth": "2016-09-19",
+        "total_balance": 80830.56
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 13286.38
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 16346.53
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 96927.11
+        },
+        {
+          "wallet_type": "study",
+          "balance": 47562.19
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 24585.89,
+          "total_received": 12138.12,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 31486.63,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 8709.9,
+          "total_received": 7408.59,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 33758.29,
+          "total_received": 28494.84,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 117967.54,
+        "total_withdraws": 364782.41,
+        "deposit_count": 2,
+        "withdraw_count": 5,
+        "net_amount": -246814.87
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 0,
+        "pending_missions": 2,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 185,
+      "money_received": 48041.55,
+      "money_received_count": 4,
+      "last_activity_date": "2024-12-25"
+    },
+    {
+      "profile": {
+        "profile_id": "645a8237-64f2-4131-a997-dcb4cd533daf",
+        "full_name": "Truong Bich Son",
+        "nickname": "Truong Bich Son",
+        "age": 14,
+        "date_of_birth": "2011-01-22",
+        "total_balance": 83481.87
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 97712.67
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 98410.21
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 88771.55
+        },
+        {
+          "wallet_type": "study",
+          "balance": 81381.68
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 10351.2,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 68881.34,
+          "total_received": 23399.49,
+          "transaction_count": 3
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 86424.88,
+        "deposit_count": 0,
+        "withdraw_count": 2,
+        "net_amount": -86424.88
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 1,
+        "pending_missions": 1,
+        "completion_rate": 50,
+        "total_rewards": 1494.89
+      },
+      "activity_score": 270,
+      "money_received": 33750.69,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-10"
+    },
+    {
+      "profile": {
+        "profile_id": "5e82e520-def5-4841-b0b4-bbccf3150a6e",
+        "full_name": "Truong Duc Hoa",
+        "nickname": "Truong Duc Hoa",
+        "age": 6,
+        "date_of_birth": "2018-11-17",
+        "total_balance": 281634.26
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 45213.61
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 30093.68
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 93659.72
+        },
+        {
+          "wallet_type": "study",
+          "balance": 25155.18
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 37559.92,
+          "total_received": 34259.71,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 42292.81,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 90621.54,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 60956.86,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 268091.04,
+        "total_withdraws": 247965.41,
+        "deposit_count": 4,
+        "withdraw_count": 4,
+        "net_amount": 20125.629999999976
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 1,
+        "pending_missions": 1,
+        "completion_rate": 50,
+        "total_rewards": 4410.28
+      },
+      "activity_score": 400,
+      "money_received": 228130.92,
+      "money_received_count": 7,
+      "last_activity_date": "2024-11-26"
+    },
+    {
+      "profile": {
+        "profile_id": "bed9a187-a694-40e3-ab02-c1dac591b9fd",
+        "full_name": "Truong Duc Khanh",
+        "nickname": "Truong Duc Khanh",
+        "age": 10,
+        "date_of_birth": "2014-12-12",
+        "total_balance": 176375.28
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 37189.93
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 85305.48
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 65794.03
+        },
+        {
+          "wallet_type": "study",
+          "balance": 12441.55
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 87408.52,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 7984,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 186403.72,
+        "total_withdraws": 150395.28,
+        "deposit_count": 4,
+        "withdraw_count": 3,
+        "net_amount": 36008.44
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 2,
+        "pending_missions": 2,
+        "completion_rate": 50,
+        "total_rewards": 5847.55
+      },
+      "activity_score": 535,
+      "money_received": 95392.52,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-06"
+    },
+    {
+      "profile": {
+        "profile_id": "3c4c71b5-553f-45af-bcde-a15daf63282d",
+        "full_name": "Truong Duc Sang",
+        "nickname": "Truong Duc Sang",
+        "age": 10,
+        "date_of_birth": "2015-03-07",
+        "total_balance": 171804.34
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 22387.66
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 53861.23
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 74871.82
+        },
+        {
+          "wallet_type": "study",
+          "balance": 79445.21
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 23909.23,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 15384.34,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 15673.47,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 107500.18,
+        "total_withdraws": 223299.04,
+        "deposit_count": 3,
+        "withdraw_count": 3,
+        "net_amount": -115798.86000000002
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 2,
+        "pending_missions": 0,
+        "completion_rate": 100,
+        "total_rewards": 5516.06
+      },
+      "activity_score": 520,
+      "money_received": 39293.57,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-14"
+    },
+    {
+      "profile": {
+        "profile_id": "bd3bd08d-57c3-4529-a5f4-2e31ff776d36",
+        "full_name": "Truong Kim Binh",
+        "nickname": "Truong Kim Binh",
+        "age": 10,
+        "date_of_birth": "2015-08-27",
+        "total_balance": 382644.97
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 41469.58
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 11593.77
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 89021.91
+        },
+        {
+          "wallet_type": "study",
+          "balance": 68363.23
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 46208.17,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 45405.15,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 46415.97,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 291712.42,
+        "total_withdraws": 125858.62,
+        "deposit_count": 4,
+        "withdraw_count": 3,
+        "net_amount": 165853.8
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 3421.2
+      },
+      "activity_score": 345,
+      "money_received": 92624.14,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-12"
+    },
+    {
+      "profile": {
+        "profile_id": "a7cc5c74-8bfb-4d99-a291-62e3407a97cf",
+        "full_name": "Truong Quang Phong",
+        "nickname": "Truong Quang Phong",
+        "age": 11,
+        "date_of_birth": "2014-04-07",
+        "total_balance": 224342.82
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 50013.74
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 85434.54
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 19764.97
+        },
+        {
+          "wallet_type": "study",
+          "balance": 20340.74
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 225287.37,
+          "total_received": 22333.51,
+          "transaction_count": 7
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 36701.69,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 5980.54,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 25541.87,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 110266.92,
+        "total_withdraws": 30719.98,
+        "deposit_count": 2,
+        "withdraw_count": 1,
+        "net_amount": 79546.94
+      },
+      "missions": {
+        "total_missions": 6,
+        "completed_missions": 2,
+        "pending_missions": 4,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 7047.96
+      },
+      "activity_score": 545,
+      "money_received": 22333.51,
+      "money_received_count": 1,
+      "last_activity_date": "2024-12-25"
+    },
+    {
+      "profile": {
+        "profile_id": "a0bc7498-779c-48dd-8672-e8ee8392dbd5",
+        "full_name": "Truong Quang Tuan",
+        "nickname": "Truong Quang Tuan",
+        "age": 8,
+        "date_of_birth": "2017-02-12",
+        "total_balance": 159322.95
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 78937.46
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 87205.5
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 71308.08
+        },
+        {
+          "wallet_type": "study",
+          "balance": 83607.32
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 14671.99,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 45575.75,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 189104.82,
+        "total_withdraws": 161470.11,
+        "deposit_count": 3,
+        "withdraw_count": 2,
+        "net_amount": 27634.71000000002
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 2,
+        "pending_missions": 0,
+        "completion_rate": 100,
+        "total_rewards": 5911.53
+      },
+      "activity_score": 495,
+      "money_received": 14671.99,
+      "money_received_count": 1,
+      "last_activity_date": "2024-12-23"
+    },
+    {
+      "profile": {
+        "profile_id": "7147dee4-9933-4ebb-b364-d7ea842e6904",
+        "full_name": "Truong Thi Bao",
+        "nickname": "Truong Thi Bao",
+        "age": 10,
+        "date_of_birth": "2015-01-06",
+        "total_balance": 62262.63
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 56018.34
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 65225.35
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 99331.19
+        },
+        {
+          "wallet_type": "study",
+          "balance": 77890.56
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 40590.53,
+          "total_received": 69179.34,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 42073.73,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 28328.38,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 29919.37,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 281923.24,
+        "total_withdraws": 137350.49,
+        "deposit_count": 4,
+        "withdraw_count": 4,
+        "net_amount": 144572.75
+      },
+      "missions": {
+        "total_missions": 0,
+        "completed_missions": 0,
+        "pending_missions": 0,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 180,
+      "money_received": 111253.07,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-05"
+    },
+    {
+      "profile": {
+        "profile_id": "4e27373b-a1b6-443b-93a4-509c2c1ea9bb",
+        "full_name": "Truong Thu Khanh",
+        "nickname": "Truong Thu Khanh",
+        "age": 11,
+        "date_of_birth": "2014-07-11",
+        "total_balance": 362913.39
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 23341.1
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 48608.45
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 68564.07
+        },
+        {
+          "wallet_type": "study",
+          "balance": 17098.07
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 16835.39,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 20306.36,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 5248.75,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 61948.3,
+          "total_received": 0,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 76761.85,
+        "total_withdraws": 10508.88,
+        "deposit_count": 1,
+        "withdraw_count": 1,
+        "net_amount": 66252.97
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 4866.67
+      },
+      "activity_score": 290,
+      "money_received": 16835.39,
+      "money_received_count": 1,
+      "last_activity_date": "2024-12-22"
+    },
+    {
+      "profile": {
+        "profile_id": "14ed0ab9-47ae-44f3-ac02-9c28c2244efc",
+        "full_name": "Truong Van Bao",
+        "nickname": "Truong Van Bao",
+        "age": 12,
+        "date_of_birth": "2013-04-09",
+        "total_balance": 422825.82
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 43732.83
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 55632.59
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 20892.25
+        },
+        {
+          "wallet_type": "study",
+          "balance": 45770.64
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 50100.94,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 48157.82,
+          "total_received": 23668.31,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 52778.37,
+          "total_received": 20171.88,
+          "transaction_count": 3
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 141657.59,
+        "total_withdraws": 139161.62,
+        "deposit_count": 2,
+        "withdraw_count": 2,
+        "net_amount": 2495.970000000001
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 3,
+        "pending_missions": 1,
+        "completion_rate": 75,
+        "total_rewards": 5295.37
+      },
+      "activity_score": 740,
+      "money_received": 93941.13,
+      "money_received_count": 4,
+      "last_activity_date": "2024-12-15"
+    },
+    {
+      "profile": {
+        "profile_id": "d67d88ef-79c6-4129-ae8e-59bb6ac8b2d8",
+        "full_name": "Vo Anh Duc",
+        "nickname": "Vo Anh Duc",
+        "age": 10,
+        "date_of_birth": "2014-11-10",
+        "total_balance": 250843.58
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 44700.87
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 44134.54
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 91633.22
+        },
+        {
+          "wallet_type": "study",
+          "balance": 85624.88
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 29281.51,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 34853.62,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 179453.83,
+        "total_withdraws": 204783.14,
+        "deposit_count": 3,
+        "withdraw_count": 4,
+        "net_amount": -25329.310000000027
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 3,
+        "pending_missions": 1,
+        "completion_rate": 75,
+        "total_rewards": 8389.79
+      },
+      "activity_score": 735,
+      "money_received": 64135.13,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-19"
+    },
+    {
+      "profile": {
+        "profile_id": "2494ead8-0904-47bb-b5eb-6e18890d3bbd",
+        "full_name": "Vo Duc Binh",
+        "nickname": "Vo Duc Binh",
+        "age": 13,
+        "date_of_birth": "2012-05-22",
+        "total_balance": 58475.41
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 32419.63
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 92984.3
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 75976.17
+        },
+        {
+          "wallet_type": "study",
+          "balance": 79293.95
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 27596.36,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 37423.2,
+          "total_received": 42409.11,
+          "transaction_count": 4
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 383657.71,
+        "total_withdraws": 187178,
+        "deposit_count": 7,
+        "withdraw_count": 2,
+        "net_amount": 196479.71000000002
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 1889.01
+      },
+      "activity_score": 385,
+      "money_received": 42409.11,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-25"
+    },
+    {
+      "profile": {
+        "profile_id": "a6dc0540-d895-4ea0-8959-9b91d298f36b",
+        "full_name": "Vo Duc Cuong",
+        "nickname": "Vo Duc Cuong",
+        "age": 10,
+        "date_of_birth": "2015-08-19",
+        "total_balance": 368325.84
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 41170.26
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 26060.9
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 18767.39
+        },
+        {
+          "wallet_type": "study",
+          "balance": 78287.67
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 35826.13,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 66925.09,
+          "total_received": 33720.06,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 43092.9,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 45950.04,
+        "total_withdraws": 71730.52,
+        "deposit_count": 2,
+        "withdraw_count": 3,
+        "net_amount": -25780.480000000003
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 2,
+        "pending_missions": 1,
+        "completion_rate": 66.66666666666666,
+        "total_rewards": 4746.64
+      },
+      "activity_score": 535,
+      "money_received": 112639.09,
+      "money_received_count": 4,
+      "last_activity_date": "2024-12-17"
+    },
+    {
+      "profile": {
+        "profile_id": "d9e9d3db-7896-460b-8718-bccac98e7d61",
+        "full_name": "Vo Duc Hanh",
+        "nickname": "Vo Duc Hanh",
+        "age": 9,
+        "date_of_birth": "2016-06-16",
+        "total_balance": 290823.11
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 76444.76
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 21877.35
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 92703.37
+        },
+        {
+          "wallet_type": "study",
+          "balance": 76163.81
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 48377.73,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 13671.72,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 64865.73,
+          "total_received": 41733.71,
+          "transaction_count": 3
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 10497.88,
+        "total_withdraws": 102594.06,
+        "deposit_count": 1,
+        "withdraw_count": 2,
+        "net_amount": -92096.18
+      },
+      "missions": {
+        "total_missions": 5,
+        "completed_missions": 1,
+        "pending_missions": 4,
+        "completion_rate": 20,
+        "total_rewards": 1681.38
+      },
+      "activity_score": 295,
+      "money_received": 90111.44,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-30"
+    },
+    {
+      "profile": {
+        "profile_id": "ce1fd606-cb80-4cc3-9992-d79e4f850117",
+        "full_name": "Vo Duc Hanh",
+        "nickname": "Vo Duc Hanh",
+        "age": 14,
+        "date_of_birth": "2011-03-19",
+        "total_balance": 127857.12
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 73029.91
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 14128.61
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 42269.42
+        },
+        {
+          "wallet_type": "study",
+          "balance": 25938.29
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 46429.29,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 11412.05,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 9832.26,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 24202.64,
+          "total_received": 28815.77,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 31509.55,
+        "total_withdraws": 0,
+        "deposit_count": 1,
+        "withdraw_count": 0,
+        "net_amount": 31509.55
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 3,
+        "pending_missions": 1,
+        "completion_rate": 75,
+        "total_rewards": 9316.16
+      },
+      "activity_score": 665,
+      "money_received": 75245.06,
+      "money_received_count": 2,
+      "last_activity_date": "2024-11-21"
+    },
+    {
+      "profile": {
+        "profile_id": "f3f3d2f1-7eb2-4263-8f36-4dc24bded52c",
+        "full_name": "Vo Duc Linh",
+        "nickname": "Vo Duc Linh",
+        "age": 12,
+        "date_of_birth": "2013-09-11",
+        "total_balance": 128918.07
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 81106.83
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 57372.53
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 17156.8
+        },
+        {
+          "wallet_type": "study",
+          "balance": 34582.02
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 24417.54,
+          "total_received": 0,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 125857.85,
+        "total_withdraws": 0,
+        "deposit_count": 2,
+        "withdraw_count": 0,
+        "net_amount": 125857.85
+      },
+      "missions": {
+        "total_missions": 5,
+        "completed_missions": 2,
+        "pending_missions": 3,
+        "completion_rate": 40,
+        "total_rewards": 5043.41
+      },
+      "activity_score": 450,
+      "money_received": 0,
+      "money_received_count": 0,
+      "last_activity_date": "2024-11-17"
+    },
+    {
+      "profile": {
+        "profile_id": "b1fe5405-9d3b-415c-a544-17a8b596bf62",
+        "full_name": "Vo Duc Tuan",
+        "nickname": "Vo Duc Tuan",
+        "age": 14,
+        "date_of_birth": "2011-02-02",
+        "total_balance": 231731.8
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 27417.61
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 11964
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 96126.64
+        },
+        {
+          "wallet_type": "study",
+          "balance": 60403.75
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 25981.55,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 65855.38,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 19864.07,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 96295.4,
+        "deposit_count": 0,
+        "withdraw_count": 1,
+        "net_amount": -96295.4
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 1,
+        "pending_missions": 2,
+        "completion_rate": 33.33333333333333,
+        "total_rewards": 2313.47
+      },
+      "activity_score": 255,
+      "money_received": 111701,
+      "money_received_count": 4,
+      "last_activity_date": "2024-10-20"
+    },
+    {
+      "profile": {
+        "profile_id": "611c797f-ac3f-4020-a83d-535030ae5c17",
+        "full_name": "Vo Quang Duc",
+        "nickname": "Vo Quang Duc",
+        "age": 9,
+        "date_of_birth": "2016-08-17",
+        "total_balance": 434072.62
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 43782.31
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 20133.5
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 88543.26
+        },
+        {
+          "wallet_type": "study",
+          "balance": 18932.21
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 31173.04,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 10422.52,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 204270.9,
+        "total_withdraws": 46401.13,
+        "deposit_count": 3,
+        "withdraw_count": 1,
+        "net_amount": 157869.77
+      },
+      "missions": {
+        "total_missions": 0,
+        "completed_missions": 0,
+        "pending_missions": 0,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 90,
+      "money_received": 0,
+      "money_received_count": 0,
+      "last_activity_date": "2024-10-07"
+    },
+    {
+      "profile": {
+        "profile_id": "d696abc5-633b-4fed-9657-c5f39f751c6c",
+        "full_name": "Vo Quang Tuan",
+        "nickname": "Vo Quang Tuan",
+        "age": 10,
+        "date_of_birth": "2014-11-23",
+        "total_balance": 270961.26
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 25546.67
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 14302.26
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 71257.11
+        },
+        {
+          "wallet_type": "study",
+          "balance": 60124.62
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 85841.68,
+          "total_received": 33178.42,
+          "transaction_count": 5
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 21620.21,
+          "total_received": 0,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 28343.73,
+        "total_withdraws": 6778.23,
+        "deposit_count": 1,
+        "withdraw_count": 1,
+        "net_amount": 21565.5
+      },
+      "missions": {
+        "total_missions": 7,
+        "completed_missions": 2,
+        "pending_missions": 5,
+        "completion_rate": 28.57142857142857,
+        "total_rewards": 5330.95
+      },
+      "activity_score": 500,
+      "money_received": 33178.42,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-11"
+    },
+    {
+      "profile": {
+        "profile_id": "880d3364-4888-4488-935a-34a4ed6f52e5",
+        "full_name": "Vo Quang Van",
+        "nickname": "Vo Quang Van",
+        "age": 14,
+        "date_of_birth": "2010-12-25",
+        "total_balance": 426258.7
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 89014.35
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 60428.21
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 64008.86
+        },
+        {
+          "wallet_type": "study",
+          "balance": 89903.63
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 43756.35,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 21046.55,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 41952.82,
+        "total_withdraws": 0,
+        "deposit_count": 1,
+        "withdraw_count": 0,
+        "net_amount": 41952.82
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 1,
+        "pending_missions": 1,
+        "completion_rate": 50,
+        "total_rewards": 511.48
+      },
+      "activity_score": 235,
+      "money_received": 21046.55,
+      "money_received_count": 1,
+      "last_activity_date": "2024-12-05"
+    },
+    {
+      "profile": {
+        "profile_id": "6bacbd3b-d9fe-4739-8e4b-ca5a44f72573",
+        "full_name": "Vo Thi Binh",
+        "nickname": "Vo Thi Binh",
+        "age": 10,
+        "date_of_birth": "2015-01-26",
+        "total_balance": 255448.68
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 92494.01
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 57125.46
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 62771.15
+        },
+        {
+          "wallet_type": "study",
+          "balance": 55671.65
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 22908.78,
+          "total_received": 62693.42,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 0,
+          "total_received": 43279.45,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 168803.43,
+        "total_withdraws": 336850.38,
+        "deposit_count": 4,
+        "withdraw_count": 5,
+        "net_amount": -168046.95
+      },
+      "missions": {
+        "total_missions": 4,
+        "completed_missions": 1,
+        "pending_missions": 3,
+        "completion_rate": 25,
+        "total_rewards": 4962.52
+      },
+      "activity_score": 375,
+      "money_received": 105972.87,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-07"
+    },
+    {
+      "profile": {
+        "profile_id": "45688c3c-ef25-4d73-a5b9-bd2acd4ee257",
+        "full_name": "Vo Van Minh",
+        "nickname": "Vo Van Minh",
+        "age": 14,
+        "date_of_birth": "2010-11-28",
+        "total_balance": 327567.19
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 69670.34
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 25510.13
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 11568.82
+        },
+        {
+          "wallet_type": "study",
+          "balance": 85667.57
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 39078.44,
+          "total_received": 0,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 63592.94,
+          "total_received": 97670.66,
+          "transaction_count": 5
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 29820.96,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 52486.15,
+        "total_withdraws": 97462.82,
+        "deposit_count": 1,
+        "withdraw_count": 1,
+        "net_amount": -44976.670000000006
+      },
+      "missions": {
+        "total_missions": 0,
+        "completed_missions": 0,
+        "pending_missions": 0,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 100,
+      "money_received": 97670.66,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-05"
+    },
+    {
+      "profile": {
+        "profile_id": "5c5165fe-3a51-499f-be0a-ded32cec0904",
+        "full_name": "Vo Van Yen",
+        "nickname": "Vo Van Yen",
+        "age": 15,
+        "date_of_birth": "2010-01-05",
+        "total_balance": 196040.53
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 69012.84
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 42123.31
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 12264.85
+        },
+        {
+          "wallet_type": "study",
+          "balance": 36164.49
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 11327.19,
+          "total_received": 47703.79,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 5503.45,
+          "total_received": 6888.54,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 108259.76,
+        "total_withdraws": 116694.42,
+        "deposit_count": 3,
+        "withdraw_count": 2,
+        "net_amount": -8434.660000000003
+      },
+      "missions": {
+        "total_missions": 2,
+        "completed_missions": 1,
+        "pending_missions": 1,
+        "completion_rate": 50,
+        "total_rewards": 804.93
+      },
+      "activity_score": 315,
+      "money_received": 54592.33,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-06"
+    },
+    {
+      "profile": {
+        "profile_id": "22b1ebb7-f21f-452f-a2a7-ade801d7d94a",
+        "full_name": "Vu Anh Cuong",
+        "nickname": "Vu Anh Cuong",
+        "age": 13,
+        "date_of_birth": "2012-06-25",
+        "total_balance": 473320.28
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 42663.59
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 69083.59
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 39329.5
+        },
+        {
+          "wallet_type": "study",
+          "balance": 53431.39
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 54312.43,
+          "total_received": 0,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 32663.57,
+          "total_received": 38846.49,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 30085.8,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 33901.33,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 157347.48,
+        "total_withdraws": 153687,
+        "deposit_count": 4,
+        "withdraw_count": 2,
+        "net_amount": 3660.4800000000105
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 2,
+        "pending_missions": 1,
+        "completion_rate": 66.66666666666666,
+        "total_rewards": 7948.71
+      },
+      "activity_score": 550,
+      "money_received": 68932.29,
+      "money_received_count": 2,
+      "last_activity_date": "2024-12-12"
+    },
+    {
+      "profile": {
+        "profile_id": "245ae75c-679b-4084-a35e-7a9a2383dc14",
+        "full_name": "Vu Anh Yen",
+        "nickname": "Vu Anh Yen",
+        "age": 15,
+        "date_of_birth": "2010-02-22",
+        "total_balance": 286690.99
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 13914.93
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 44863.99
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 15194.07
+        },
+        {
+          "wallet_type": "study",
+          "balance": 51201.2
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 14693.28,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 51778.18,
+          "total_received": 22737.57,
+          "transaction_count": 3
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 94230.05,
+          "total_received": 0,
+          "transaction_count": 4
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 40703.13,
+          "total_received": 25419.02,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 0,
+        "total_withdraws": 16553.5,
+        "deposit_count": 0,
+        "withdraw_count": 1,
+        "net_amount": -16553.5
+      },
+      "missions": {
+        "total_missions": 0,
+        "completed_missions": 0,
+        "pending_missions": 0,
+        "completion_rate": 0,
+        "total_rewards": 0
+      },
+      "activity_score": 115,
+      "money_received": 62849.87,
+      "money_received_count": 3,
+      "last_activity_date": "2024-11-30"
+    },
+    {
+      "profile": {
+        "profile_id": "228f0857-7346-42d3-8be0-30080f89a306",
+        "full_name": "Vu Duc Dung",
+        "nickname": "Vu Duc Dung",
+        "age": 9,
+        "date_of_birth": "2016-04-28",
+        "total_balance": 353762.19
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 34925.21
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 64971.62
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 81185.36
+        },
+        {
+          "wallet_type": "study",
+          "balance": 49103.75
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 38387.67,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 24740.35,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 49933.78,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 120647.4,
+        "total_withdraws": 217294.88,
+        "deposit_count": 2,
+        "withdraw_count": 3,
+        "net_amount": -96647.48000000001
+      },
+      "missions": {
+        "total_missions": 5,
+        "completed_missions": 2,
+        "pending_missions": 3,
+        "completion_rate": 40,
+        "total_rewards": 6213.13
+      },
+      "activity_score": 505,
+      "money_received": 63128.02,
+      "money_received_count": 2,
+      "last_activity_date": "2024-09-15"
+    },
+    {
+      "profile": {
+        "profile_id": "5dc2d09a-32d6-4b11-9524-5d892cf4408e",
+        "full_name": "Vu Kim Bao",
+        "nickname": "Vu Kim Bao",
+        "age": 14,
+        "date_of_birth": "2010-11-14",
+        "total_balance": 103717.84
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 66097.99
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 97843.01
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 89897.35
+        },
+        {
+          "wallet_type": "study",
+          "balance": 23121.88
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 73615.53,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "joy",
+          "total_spent": 0,
+          "total_received": 80038.8,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 17039.17,
+          "total_received": 0,
+          "transaction_count": 1
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 53779.44,
+        "total_withdraws": 190465.75,
+        "deposit_count": 1,
+        "withdraw_count": 4,
+        "net_amount": -136686.31
+      },
+      "missions": {
+        "total_missions": 3,
+        "completed_missions": 2,
+        "pending_missions": 1,
+        "completion_rate": 66.66666666666666,
+        "total_rewards": 7005.36
+      },
+      "activity_score": 525,
+      "money_received": 153654.33,
+      "money_received_count": 4,
+      "last_activity_date": "2024-12-31"
+    },
+    {
+      "profile": {
+        "profile_id": "da17abb5-d939-409e-9395-bf7d5644cc8a",
+        "full_name": "Vu Minh Minh",
+        "nickname": "Vu Minh Minh",
+        "age": 8,
+        "date_of_birth": "2017-08-10",
+        "total_balance": 218302.35
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 80172.13
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 23682.84
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 15693.49
+        },
+        {
+          "wallet_type": "study",
+          "balance": 37901.6
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "charity",
+          "total_spent": 0,
+          "total_received": 42286.68,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "spending",
+          "total_spent": 0,
+          "total_received": 48599.85,
+          "transaction_count": 1
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 45628.63,
+          "total_received": 47212.71,
+          "transaction_count": 2
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 81340.01,
+        "total_withdraws": 0,
+        "deposit_count": 4,
+        "withdraw_count": 0,
+        "net_amount": 81340.01
+      },
+      "missions": {
+        "total_missions": 5,
+        "completed_missions": 3,
+        "pending_missions": 2,
+        "completion_rate": 60,
+        "total_rewards": 6569.73
+      },
+      "activity_score": 710,
+      "money_received": 138099.24,
+      "money_received_count": 4,
+      "last_activity_date": "2024-12-12"
+    },
+    {
+      "profile": {
+        "profile_id": "ae4da114-14a7-4517-8704-4d167dad13d2",
+        "full_name": "Vu Thanh Linh",
+        "nickname": "Vu Thanh Linh",
+        "age": 7,
+        "date_of_birth": "2018-09-28",
+        "total_balance": 59703.21
+      },
+      "wallets": [
+        {
+          "wallet_type": "charity",
+          "balance": 15706.66
+        },
+        {
+          "wallet_type": "joy",
+          "balance": 24383.57
+        },
+        {
+          "wallet_type": "spending",
+          "balance": 73807.53
+        },
+        {
+          "wallet_type": "study",
+          "balance": 41217.9
+        }
+      ],
+      "wallet_transactions": [
+        {
+          "wallet_type": "joy",
+          "total_spent": 47371.9,
+          "total_received": 45965.47,
+          "transaction_count": 2
+        },
+        {
+          "wallet_type": "study",
+          "total_spent": 58468.06,
+          "total_received": 91351.66,
+          "transaction_count": 4
+        }
+      ],
+      "profile_transactions": {
+        "total_deposits": 145983.85,
+        "total_withdraws": 49034.31,
+        "deposit_count": 3,
+        "withdraw_count": 1,
+        "net_amount": 96949.54000000001
+      },
+      "missions": {
+        "total_missions": 1,
+        "completed_missions": 1,
+        "pending_missions": 0,
+        "completion_rate": 100,
+        "total_rewards": 731.59
+      },
+      "activity_score": 320,
+      "money_received": 137317.13,
+      "money_received_count": 3,
+      "last_activity_date": "2024-12-12"
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "generated_at": "2025-10-24T12:54:13+07:00",
+  "reports": [
+    {
+      "child_name": "Vũ Thị Phượng",
+      "week": "Tuần 3 - Tháng 10/2025",
+      "financial_tendencies": [
+        {
+          "type": "nhà quản lý ngân sách nhí",
+          "description": "phượng có khả năng quản lý tiền khá tốt, mặc dù chưa chi tiêu từ các ví nhưng đã dành số tiền lớn vào ví học tập và từ thiện.",
+          "suggestion": "khuyến khích phượng lập kế hoạch chi tiêu nhỏ để sử dụng số tiền trong ví một cách hợp lý hơn."
+        },
+        {
+          "type": "người tiết kiệm nhí",
+          "description": "toàn bộ số tiền nhận được đều được phượng phân bổ hợp lý vào các ví, đặc biệt là ví học tập và từ thiện.",
+          "suggestion": "giúp phượng xác định mục tiêu cụ thể cho các ví để tăng động lực tiết kiệm và chi tiêu có mục đích hơn."
+        }
+      ],
+      "performance_sections": [
+        {
+          "title": "tự quản lý tài chính",
+          "level": "đang hình thành 2/5",
+          "score": 2,
+          "summary": "phượng mới nhận tiền 1 lần, tiền được phân bổ chủ yếu vào các ví tiết kiệm và học tập, chưa có chi tiêu cụ thể nào đã diễn ra."
+        },
+        {
+          "title": "xu hướng tiêu dùng",
+          "level": "bắt đầu 1/5",
+          "score": 1,
+          "summary": "chi tiêu từ ví tiêu vặt và các ví khác chưa xảy ra, thể hiện xu hướng chưa rõ ràng trong việc tiêu dùng cá nhân."
+        },
+        {
+          "title": "kiên nhẫn đạt mục tiêu",
+          "level": "tiến bộ ổn định 3/5",
+          "score": 3,
+          "summary": "số dư còn lại trong các ví cho thấy phượng đang có khả năng tiết kiệm tốt, tổng cộng đã giữ lại được khoảng 941,256.77 đồng trong tất cả các ví."
+        },
+        {
+          "title": "chia sẻ và lòng trắc ẩn",
+          "level": "bắt đầu 1/5",
+          "score": 1,
+          "summary": "chưa có chi tiêu từ ví từ thiện, nhưng đã dự trữ một số tiền khá lớn vào ví này, chiếm 10% tổng số dư."
+        },
+        {
+          "title": "mức độ tiến bộ",
+          "level": "bắt đầu 1/5",
+          "score": 1,
+          "summary": "hoạt động gần như chưa có, với activity score là 16.86 và chưa hoàn thành bất kỳ nhiệm vụ nào."
+        },
+        {
+          "title": "sự đồng hành cùng con",
+          "level": "đang hình thành 2/5",
+          "score": 2,
+          "summary": "phụ huynh có thể cần chủ động hướng dẫn phượng thêm những bài học cụ thể về quản lý và sử dụng tiền hiệu quả."
+        }
+      ],
+      "next_week_goals": [
+        "thực hiện một khoản chi tiêu nhỏ từ ví tiêu vặt",
+        "hoàn thành một nhiệm vụ đầu tiên trong ứng dụng",
+        "tham gia ít nhất một hoạt động giáo dục tài chính với sự hướng dẫn của phụ huynh"
+      ],
+      "parent_suggestions": [
+        "giúp con xác định một mục tiêu cụ thể để tiết kiệm",
+        "khuyến khích con lập kế hoạch chi tiêu nhỏ cho gia đình",
+        "cùng con trao đổi về các hoạt động giáo dục tài chính tại nhà"
+      ],
+      "generated_at": "2025-10-24T12:51:40+07:00"
+    },
+    {
+      "child_name": "Phạm Thị Dung",
+      "week": "Tuần 3 - Tháng 10/2025",
+      "financial_tendencies": [
+        {
+          "type": "nhà từ thiện trẻ",
+          "description": "phạm thị dung có xu hướng ưu tiên tiền phân bổ vào ví từ thiện với số dư hơn 272 nghìn đồng, cho thấy sự quan tâm đến việc giúp đỡ người khác.",
+          "suggestion": "khuyến khích dung tiếp tục chia sẻ nhưng cũng cân nhắc phân bổ hợp lý hơn để đảm bảo các nhu cầu khác không bị thiếu hụt."
+        },
+        {
+          "type": "học hỏi không ngừng",
+          "description": "phần lớn quỹ của dung cũng phân bổ vào ví học tập, điều này chỉ ra rằng dung coi trọng việc đầu tư cho tri thức.",
+          "suggestion": "gợi ý tạo những thử thách học tập để dung có thêm mục tiêu và động lực sử dụng quỹ học tập hiệu quả."
+        }
+      ],
+      "performance_sections": [
+        {
+          "title": "tự quản lý tài chính",
+          "level": "đang hình thành",
+          "score": 2,
+          "summary": "phạm thị dung chưa nhận thêm tiền từ phụ huynh và có một cấu trúc phân bổ ví khá rõ ràng cho từ thiện và học tập, tuy nhiên thiếu sự cân bằng giữa tiêu vặt và tiết kiệm."
+        },
+        {
+          "title": "xu hướng tiêu dùng",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "dung chưa thực sự chủ động trong việc sử dụng các ví, với chưa có chi tiêu từ ví tiêu vặt và tiết kiệm trong khoảng thời gian này."
+        },
+        {
+          "title": "kiên nhẫn đạt mục tiêu",
+          "level": "sắp thành thạo",
+          "score": 4,
+          "summary": "khả năng duy trì số dư đáng kể trong ví từ thiện và học tập cho thấy dung rất kiên nhẫn trong việc đạt mục tiêu dài hạn."
+        },
+        {
+          "title": "chia sẻ và lòng trắc ẩn",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "mặc dù dung có số dư cao trong ví từ thiện, chưa có chi tiêu thực tế từ đây để đánh giá khả năng chia sẻ."
+        },
+        {
+          "title": "mức độ tiến bộ",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "activity score mới ở mức 40 và chỉ một nhiệm vụ hoàn thành. cần chú ý hơn để cải thiện tiến bộ."
+        },
+        {
+          "title": "sự đồng hành cùng con",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "sự tham gia của phụ huynh trong việc hướng dẫn và hỗ trợ với quản lý tài chính của dung còn ít, cần tăng cường hơn."
+        }
+      ],
+      "next_week_goals": [
+        "hoàn thành ít nhất 3 nhiệm vụ mới để tăng mức độ tiến bộ",
+        "sử dụng một phần nhỏ từ quỹ từ thiện cho hoạt động ý nghĩa",
+        "bắt đầu một kế hoạch tiết kiệm nhỏ cho ví tiết kiệm"
+      ],
+      "parent_suggestions": [
+        "khuyến khích dung tham gia các hoạt động ngoại khóa để tạo cơ hội chi tiêu có mục tiêu",
+        "cùng dung lên kế hoạch cho một hoạt động từ thiện nhỏ để sử dụng quỹ từ thiện hiệu quả",
+        "gợi ý dung sử dụng một phần quỹ tiêu vặt để tự mua sắm nhỏ, giúp hiểu quản lý tiền bạc thực tế"
+      ],
+      "generated_at": "2025-10-24T12:51:58+07:00"
+    },
+    {
+      "child_name": "Trần Thị Bình",
+      "week": "Tuần 3 - Tháng 10/2025",
+      "financial_tendencies": [
+        {
+          "type": "người tiết kiệm chăm chỉ",
+          "description": "trần thị bình có xu hướng giữ lại phần lớn tiền của mình vào các ví, đặc biệt là ví học tập và từ thiện.",
+          "suggestion": "hãy khuyến khích bình định kỳ phân bổ một khoản nhỏ để chi tiêu vào ví tiêu vặt nhằm trải nghiệm niềm vui từ việc mua sắm nhỏ."
+        }
+      ],
+      "performance_sections": [
+        {
+          "title": "Tự quản lý tài chính",
+          "level": "đang hình thành 2/5: đang hình thành",
+          "score": 2,
+          "summary": "trần thị bình nhận được 17,870.21 đồng một lần nhưng chưa có sự phân bổ rõ ràng vào các ví, cho thấy khả năng tự quản lý tài chính đang được hình thành."
+        },
+        {
+          "title": "Xu hướng tiêu dùng",
+          "level": "bắt đầu 1/5: bắt đầu",
+          "score": 1,
+          "summary": "bình chưa có chi tiêu từ ví tiêu vặt và ví tiết kiệm trong tuần này, cần hướng dẫn cách tạo niềm vui từ chi tiêu nhỏ."
+        },
+        {
+          "title": "Kiên nhẫn đạt mục tiêu",
+          "level": "sắp thành thạo 4/5: sắp thành thạo",
+          "score": 4,
+          "summary": "số dư cao trong ví tiết kiệm và ví học tập thể hiện khả năng kiên nhẫn và ý thức tiết kiệm tốt của bình."
+        },
+        {
+          "title": "Chia sẻ và lòng trắc ẩn",
+          "level": "tiến bộ ổn định 3/5: tiến bộ ổn định",
+          "score": 3,
+          "summary": "ví từ thiện có 99,093.65 đồng, cho thấy dù chưa chi tiêu nhiều nhưng có sự quan tâm đến việc đóng góp và chia sẻ."
+        },
+        {
+          "title": "Mức độ tiến bộ",
+          "level": "bắt đầu 1/5: bắt đầu",
+          "score": 1,
+          "summary": "với điểm activity score là 16.86 và chưa hoàn thành nhiệm vụ nào, cần cải thiện để thấy rõ tiến bộ."
+        },
+        {
+          "title": "Sự đồng hành cùng con",
+          "level": "đang hình thành 2/5: đang hình thành",
+          "score": 2,
+          "summary": "phụ huynh cần tăng cường hướng dẫn và khuyến khích các hoạt động tài chính cho con để tăng tương tác gia đình."
+        }
+      ],
+      "next_week_goals": [
+        "khuyến khích bình chi tiêu 5% số tiền ở ví tiêu vặt cho một món đồ yêu thích nhỏ.",
+        "hướng dẫn cách quyên góp một phần từ ví từ thiện nhằm tạo thói quen tốt.",
+        "thực hiện ít nhất một nhiệm vụ tài chính mới."
+      ],
+      "parent_suggestions": [
+        "dành thời gian cùng bình thảo luận cách tiêu tiền hợp lý.",
+        "cùng bình lập kế hoạch tiết kiệm cho món đồ lớn hơn trong tương lai.",
+        "tạo tình huống giả lập để bình thực hành quyết định tài chính hàng tuần."
+      ],
+      "generated_at": "2025-10-24T12:52:15+07:00"
+    },
+    {
+      "child_name": "Nguyễn Văn An",
+      "week": "Tuần 3 - Tháng 10/2025",
+      "financial_tendencies": [
+        {
+          "type": "nhà quản lý tài chính nhí",
+          "description": "nguyễn văn an có xu hướng giữ tiền trong ví học tập nhiều nhất, thể hiện đam mê học hỏi và khả năng quản lý tiền bạc tốt.",
+          "suggestion": "khuyến khích an tiếp tục duy trì thói quen này và thử nghiệm đầu tư nhỏ vào ví tiết kiệm để tăng trưởng dài hạn."
+        },
+        {
+          "type": "người tiết kiệm cẩn thận",
+          "description": "có một số dư lớn trong các ví cho thấy xu hướng tiết kiệm thay vì chi tiêu bừa bãi.",
+          "suggestion": "cha mẹ có thể hỗ trợ giúp an tìm hiểu về các cách đầu tư phù hợp với lứa tuổi để tiền bạc sinh lời."
+        }
+      ],
+      "performance_sections": [
+        {
+          "title": "tự quản lý tài chính",
+          "level": "tiến bộ ổn định",
+          "score": 3,
+          "summary": "mặc dù an chưa nhận được tiền trong tuần này, an vẫn duy trì số dư lớn ở các ví tiêu vặt, tiết kiệm và học tập."
+        },
+        {
+          "title": "xu hướng tiêu dùng",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "không có chi tiêu từ ví tiêu vặt hoặc ví tiết kiệm cho thấy nhu cầu chi tiêu chưa rõ ràng."
+        },
+        {
+          "title": "kiên nhẫn đạt mục tiêu",
+          "level": "thành thạo vượt mong đợi",
+          "score": 5,
+          "summary": "khả năng tiết kiệm ấn tượng với số dư lớn trong ví học tập là 266,091.89 đồng và ví từ thiện là 138,178.72 đồng."
+        },
+        {
+          "title": "chia sẻ và lòng trắc ẩn",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "chưa có chi tiêu từ thiện, cần khuyến khích an chia sẻ và giúp đỡ cộng đồng nhiều hơn."
+        },
+        {
+          "title": "mức độ tiến bộ",
+          "level": "đang hình thành",
+          "score": 2,
+          "summary": "activity score của an là 10, tuy nhiên số mission hoàn thành chưa có tiến bộ cụ thể."
+        },
+        {
+          "title": "sự đồng hành cùng con",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "nguyễn văn an chưa có sự tương tác nhiều với phụ huynh về tài chính, cần sự đồng hành nhiều hơn từ bố mẹ."
+        }
+      ],
+      "next_week_goals": [
+        "khuyến khích nguyễn văn an chi tiêu từ ví tiêu vặt ít nhất một khoản nhỏ.",
+        "hướng dẫn an về cách lập kế hoạch tài chính cá nhân.",
+        "tạo cơ hội để an thực hiện một hoạt động từ thiện cùng gia đình."
+      ],
+      "parent_suggestions": [
+        "bố mẹ nên dành thời gian giải thích về giá trị của việc chi tiêu thông minh.",
+        "tạo không gian để con trải nghiệm các quyết định tài chính thực tế qua các trò chơi mô phỏng.",
+        "động viên con phân bổ lại thường xuyên các khoản tiền trong ví để thấy rõ mục tiêu quản lý tài chính."
+      ],
+      "generated_at": "2025-10-24T12:52:33+07:00"
+    },
+    {
+      "child_name": "Lê Hoàng Cường",
+      "week": "Tuần 3 - Tháng 10/2025",
+      "financial_tendencies": [
+        {
+          "type": "nhà tích lũy trẻ tuổi",
+          "description": "cường có xu hướng giữ tiền trong ví tiết kiệm mà không chi tiêu gì cả. đây có thể là dấu hiệu của một nhà đầu tư tương lai.",
+          "suggestion": "có thể khuyến khích cường thử mua một món đồ nhỏ từ ví tiêu vặt để học thêm về việc quản lý chi tiêu hàng ngày."
+        },
+        {
+          "type": "người hỗ trợ cộng đồng",
+          "description": "dù cường chưa chi tiêu từ ví từ thiện, số dư cao ngay từ đầu cho thấy ý thức mạnh mẽ trong việc chia sẻ.",
+          "suggestion": "khuyến khích cường thực hiện một hoạt động từ thiện nhỏ như quyên góp cho quỹ của trường."
+        }
+      ],
+      "performance_sections": [
+        {
+          "title": "tự quản lý tài chính",
+          "level": "bắt đầu 1/5: bắt đầu",
+          "score": 1,
+          "summary": "cường không nhận thêm tiền mới và không phát sinh chi tiêu nào. cần khuyến khích cường thực hiện giao dịch nhỏ để thực hành quản lý tài chính."
+        },
+        {
+          "title": "xu hướng tiêu dùng",
+          "level": "bắt đầu 1/5: bắt đầu",
+          "score": 1,
+          "summary": "không có chi tiêu từ ví tiêu vặt và ví tiết kiệm cho thấy cường cần học thêm về quản lý chi tiêu hàng ngày."
+        },
+        {
+          "title": "kiên nhẫn đạt mục tiêu",
+          "level": "thành thạo vượt mong đợi 5/5: thành thạo vượt mong đợi",
+          "score": 5,
+          "summary": "các ví tiết kiệm và học tập còn rất nhiều tiền, thể hiện sự kiên nhẫn và mục tiêu rõ ràng khi không có chi tiêu."
+        },
+        {
+          "title": "chia sẻ và lòng trắc ẩn",
+          "level": "bắt đầu 1/5: bắt đầu",
+          "score": 1,
+          "summary": "hiện không có chi tiêu từ ví từ thiện. cường có thể tham gia hoạt động từ thiện nhỏ để phát triển lòng trắc ẩn."
+        },
+        {
+          "title": "mức độ tiến bộ",
+          "level": "bắt đầu 1/5: bắt đầu",
+          "score": 1,
+          "summary": "chưa có mission nào hoàn thành và activity score chỉ là 10. cần xác định các hoạt động nhỏ phù hợp với cường để từng bước cải thiện."
+        },
+        {
+          "title": "sự đồng hành cùng con",
+          "level": "bắt đầu 1/5: bắt đầu",
+          "score": 1,
+          "summary": "không có hoạt động chung giữa phụ huynh và cường ghi nhận. phụ huynh có thể kết hợp cùng trẻ trong cài đặt mục tiêu tài chính và theo dõi kết quả."
+        }
+      ],
+      "next_week_goals": [
+        "thực hiện ít nhất một hoạt động chi tiêu từ ví tiêu vặt",
+        "hoàn thành một mission đơn giản",
+        "tham gia một hoạt động từ thiện nhỏ"
+      ],
+      "parent_suggestions": [
+        "phụ huynh nên theo dõi và ghi nhận các hoạt động tài chính của trẻ hàng tuần",
+        "tạo cơ hội cho cường tham gia vào các quyết định tài chính nhỏ của gia đình",
+        "cùng cường lập kế hoạch chi tiêu tuần tới để phát triển kỹ năng tài chính"
+      ],
+      "generated_at": "2025-10-24T12:52:54+07:00"
+    },
+    {
+      "child_name": "Lý Thị Lan",
+      "week": "Tuần 3 - Tháng 10/2025",
+      "financial_tendencies": [
+        {
+          "type": "nhà tiết kiệm kiên định",
+          "description": "lý thị lan có xu hướng tích lũy rất rõ ràng với số tiền lớn trong ví tiết kiệm và học tập. mặc dù lan chưa chi tiêu nhiều nhưng lan đã có những kế hoạch tích cực cho học tập.",
+          "suggestion": "khuyến khích lý thị lan tiếp tục duy trì việc phân bổ tiền vào các ví tiết kiệm và học tập để đạt mục tiêu dài hạn."
+        },
+        {
+          "type": "thợ săn đam mê trải nghiệm",
+          "description": "tuy không chi tiêu nhiều vào tiêu vặt nhưng lý thị lan có một khoản khá lớn trong ví này, cho thấy sự yêu thích sẵn sàng cho những trải nghiệm nhỏ hay vui chơi gây hứng thú.",
+          "suggestion": "lan có thể được khuyến khích chọn các hoạt động vừa học hỏi vừa vui chơi để tăng trưởng kỹ năng và kinh nghiệm."
+        }
+      ],
+      "performance_sections": [
+        {
+          "title": "tự quản lý tài chính",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "lý thị lan mới nhận tiền một lần duy nhất nhưng đã phân bổ đều vào các ví, cho thấy sự quan tâm ban đầu đến quản lý tiền nhưng cần cải thiện kỹ năng thực tế."
+        },
+        {
+          "title": "xu hướng tiêu dùng",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "chưa có chi tiêu từ ví tiêu vặt hay ví tiết kiệm, điều này cho thấy lý thị lan có xu hướng tích lũy nhưng cần học cách sử dụng tiền để đạt hiệu quả tối ưu."
+        },
+        {
+          "title": "kiên nhẫn đạt mục tiêu",
+          "level": "sắp thành thạo",
+          "score": 4,
+          "summary": "số dư lớn trong ví tiết kiệm và học tập thể hiện sự kiên nhẫn lớn trong việc đạt mục tiêu tài chính."
+        },
+        {
+          "title": "chia sẻ và lòng trắc ẩn",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "chưa thấy chi tiêu từ ví từ thiện, cho thấy cần khuyến khích hơn về ý nghĩa của chia sẻ và lòng trắc ẩn xã hội."
+        },
+        {
+          "title": "mức độ tiến bộ",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "activity score là 16.86 với 0 nhiệm vụ hoàn thành, lý thị lan có nhiều tiềm năng nhưng cần tham gia các hoạt động để phát triển."
+        },
+        {
+          "title": "sự đồng hành cùng con",
+          "level": "đang hình thành",
+          "score": 2,
+          "summary": "việc không tham gia hoạt động nhiều có thể do cha mẹ cần khuyến khích thêm việc thực hiện các nhiệm vụ và quản lý tiền tiêu vặt của lan."
+        }
+      ],
+      "next_week_goals": [
+        "hoàn thành ít nhất 1 nhiệm vụ để tăng điểm activity score",
+        "tìm hiểu thêm về công dụng của ví từ thiện và cách sử dụng nó",
+        "lên kế hoạch chi tiêu nhỏ từ ví tiêu vặt"
+      ],
+      "parent_suggestions": [
+        "khuyến khích lý thị lan thực hiện các nhiệm vụ hàng ngày để tăng điểm activity score",
+        "giải thích cho lý thị lan về ý nghĩa của ví từ thiện và hướng dẫn cách sử dụng",
+        "tạo cơ hội để lý thị lan lựa chọn một món đồ nhỏ từ ví tiêu vặt nhằm học cách quyết định chi tiêu"
+      ],
+      "generated_at": "2025-10-24T12:53:14+07:00"
+    },
+    {
+      "child_name": "Bùi Thị Hà",
+      "week": "Tuần 3 - Tháng 10/2025",
+      "financial_tendencies": [
+        {
+          "type": "nhà tiết kiệm tài ba",
+          "description": "với số dư lớn ở các ví như ví học tập và ví từ thiện chứng tỏ con đang xây dựng nền tảng tài chính vững chắc.",
+          "suggestion": "hướng dẫn con tiếp tục phân bổ tiền hợp lý giữa các ví để tối ưu hoá lợi ích dài hạn."
+        }
+      ],
+      "performance_sections": [
+        {
+          "title": "Tự quản lý tài chính",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "con chưa nhận được tiền mới trong tuần vừa qua và cần chú ý hơn đến việc tích cực nhận nhiệm vụ và phân bổ tiền vào các ví."
+        },
+        {
+          "title": "Xu hướng tiêu dùng",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "chi tiêu từ ví tiêu vặt và tiết kiệm chưa có, điều này cho thấy cần khuyến khích con thực hiện các giao dịch nhỏ để hình thành thói quen tài chính."
+        },
+        {
+          "title": "Kiên nhẫn đạt mục tiêu",
+          "level": "sắp thành thạo",
+          "score": 4,
+          "summary": "số dư còn lại trong ví tiết kiệm và học tập là khá cao, cho thấy con đang làm tốt việc tích lũy tiền."
+        },
+        {
+          "title": "Chia sẻ và lòng trắc ẩn",
+          "level": "sắp thành thạo",
+          "score": 4,
+          "summary": "mặc dù chưa có chi tiêu từ ví từ thiện, số dư cho thấy sự sẵn lòng chia sẻ trong tương lai."
+        },
+        {
+          "title": "Mức độ tiến bộ",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "với số điểm hoạt động là 40 và đã hoàn thành 1/1 nhiệm vụ cho thấy con vẫn đang trong giai đoạn khởi đầu."
+        },
+        {
+          "title": "Sự đồng hành cùng con",
+          "level": "đang hình thành",
+          "score": 2,
+          "summary": "cần sự tham gia nhiều hơn từ phụ huynh để hỗ trợ con trong việc thực hiện các nhiệm vụ tài chính."
+        }
+      ],
+      "next_week_goals": [
+        "hoàn thành ít nhất 2 nhiệm vụ tài chính mới.",
+        "thực hiện ít nhất 1 lần chi tiêu từ ví tiêu vặt.",
+        "tiết kiệm một khoản nhỏ vào ví tiết kiệm."
+      ],
+      "parent_suggestions": [
+        "giúp con hiểu rõ về lợi ích của việc tiết kiệm và đầu tư từ sớm.",
+        "cùng con lập kế hoạch chi tiêu tuần tới để phát triển kỹ năng quản lý tài chính.",
+        "khuyến khích con chia sẻ một phần nhỏ từ ví từ thiện để tạo thói quen tốt."
+      ],
+      "generated_at": "2025-10-24T12:53:27+07:00"
+    },
+    {
+      "child_name": "Ngô Văn Hùng",
+      "week": "Tuần 3 - Tháng 10/2025",
+      "financial_tendencies": [
+        {
+          "type": "tiết kiệm vượt mong đợi",
+          "description": "ngô văn hùng đang có xu hướng giữ lại tiền trong các ví, đặc biệt là ví học tập và từ thiện, với số dư lớn.",
+          "suggestion": "khuyến khích con đặt ra các mục tiêu cụ thể để sử dụng hiệu quả số tiền tích lũy."
+        },
+        {
+          "type": "nhà đầu tư tương lai",
+          "description": "việc duy trì một số dư cao trong ví học tập cho thấy xu hướng dành tiền cho việc học hành lâu dài.",
+          "suggestion": "giới thiệu cho con các khái niệm về đầu tư đơn giản để tăng hiểu biết về tài chính."
+        }
+      ],
+      "performance_sections": [
+        {
+          "title": "tự quản lý tài chính",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "hiện tại ngô văn hùng chưa nhận được khoản tiền nào và chưa phân bổ vào các ví."
+        },
+        {
+          "title": "xu hướng tiêu dùng",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "chi tiêu từ ví tiêu vặt và ví tiết kiệm vẫn chưa được thực hiện. điều này có thể cho thấy xu hướng chờ cơ hội phù hợp để chi tiêu."
+        },
+        {
+          "title": "kiên nhẫn đạt mục tiêu",
+          "level": "thành thạo vượt mong đợi",
+          "score": 5,
+          "summary": "số dư trong các ví tiêu vặt (31,632.67 đồng), tiết kiệm (164,131.51 đồng), học tập và từ thiện (203,137.27 và 163,471.48 đồng) cho thấy khả năng tiết kiệm rất tốt của ngô văn hùng."
+        },
+        {
+          "title": "chia sẻ và lòng trắc ẩn",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "chưa thực hiện chi tiêu từ ví từ thiện. số dư lớn cho thấy có thể ngô văn hùng chưa nhận ra hoặc chưa có cơ hội để chia sẻ."
+        },
+        {
+          "title": "mức độ tiến bộ",
+          "level": "đang hình thành",
+          "score": 2,
+          "summary": "với activity score là 10 nhưng chưa hoàn thành mission nào, cho thấy cần thêm thời gian và minh chứng cho sự tiến bộ."
+        },
+        {
+          "title": "sự đồng hành cùng con",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "sự tương tác giữa phụ huynh và ngô văn hùng cần được thúc đẩy hơn nữa thông qua các hoạt động tài chính tại nhà."
+        }
+      ],
+      "next_week_goals": [
+        "bắt đầu tiêu một phần nhỏ từ ví tiêu vặt để thực hành quản lý chi tiêu.",
+        "hoàn thành ít nhất một mission trong tuần.",
+        "thảo luận với bố mẹ về cách sử dụng tiền từ ví từ thiện."
+      ],
+      "parent_suggestions": [
+        "tạo điều kiện cho con tham gia quyết định mua sắm nhỏ để thực hành tiêu tiền.",
+        "đồng hành cùng con trong việc thiết lập mục tiêu tài chính tuần tới.",
+        "giải thích ý nghĩa của việc làm từ thiện và khuyến khích con lập kế hoạch sử dụng ví từ thiện."
+      ],
+      "generated_at": "2025-10-24T12:53:45+07:00"
+    },
+    {
+      "child_name": "Hoàng Văn Em",
+      "week": "Tuần 3 - Tháng 10/2025",
+      "financial_tendencies": [
+        {
+          "type": "nhà quản lý tài chính nhí",
+          "description": "Hoàng Văn Em có khả năng quản lý tiền trong các ví rất tốt với số dư đáng kể. vẻ như em đang tiết kiệm cho các mục tiêu dài hạn.",
+          "suggestion": "hướng dẫn em cách lập kế hoạch tài chính dài hạn để phát triển các kỹ năng quản lý tiền."
+        }
+      ],
+      "performance_sections": [
+        {
+          "title": "Tự quản lý tài chính",
+          "level": "tiến bộ ổn định 3/5",
+          "score": 3,
+          "summary": "em nhận được 38,697.78 đồng từ 1 lần nhận tiền. các số dư trong ví tiêu vặt, tiết kiệm, từ thiện và học tập đều đáng kể, cho thấy kỹ năng quản lý tiền tốt ở tuổi 7."
+        },
+        {
+          "title": "Xu hướng tiêu dùng",
+          "level": "bắt đầu 1/5",
+          "score": 1,
+          "summary": "chưa có ghi nhận chi tiêu từ ví tiêu vặt hoặc ví tiết kiệm, cần khuyến khích trải nghiệm chi tiêu nhỏ để học cách sử dụng tiền hợp lý."
+        },
+        {
+          "title": "Kiên nhẫn đạt mục tiêu",
+          "level": "sắp thành thạo 4/5",
+          "score": 4,
+          "summary": "số tiền lớn giữ lại trong ví học tập và từ thiện cho thấy em có khả năng tiết kiệm tốt và có thể đạt được các mục tiêu lớn trong tương lai."
+        },
+        {
+          "title": "Chia sẻ và lòng trắc ẩn",
+          "level": "bắt đầu 1/5",
+          "score": 1,
+          "summary": "chưa có chi tiêu từ ví từ thiện. có thể hướng dẫn em cách chia sẻ với cộng đồng và quan tâm hơn đến nhu cầu của người khác."
+        },
+        {
+          "title": "Mức độ tiến bộ",
+          "level": "đang hình thành 2/5",
+          "score": 2,
+          "summary": "với điểm hoạt động 16.86 và chưa hoàn thành nhiệm vụ nào, cần khuyến khích em tham gia thêm các hoạt động và nhiệm vụ trong ứng dụng."
+        },
+        {
+          "title": "Sự đồng hành cùng con",
+          "level": "bắt đầu 1/5",
+          "score": 1,
+          "summary": "cần có sự tương tác nhiều hơn từ phụ huynh để hỗ trợ em học cách quản lý tài chính thông qua ứng dụng."
+        }
+      ],
+      "next_week_goals": [
+        "hoàn thành ít nhất 2 nhiệm vụ trong ứng dụng",
+        "thực hiện một khoản chi tiêu nhỏ từ ví tiêu vặt",
+        "chia sẻ một phần số tiền từ ví từ thiện cho hoạt động cộng đồng"
+      ],
+      "parent_suggestions": [
+        "khuyến khích con tham gia các hoạt động tài chính trong ứng dụng nhiều hơn",
+        "hướng dẫn con cách chi tiêu tiết kiệm và hợp lý từ ví tiêu vặt",
+        "giúp con tìm hiểu về các hoạt động từ thiện và khuyến khích tham gia"
+      ],
+      "generated_at": "2025-10-24T12:53:59+07:00"
+    },
+    {
+      "child_name": "Đặng Minh Giang",
+      "week": "Tuần 3 - Tháng 10/2025",
+      "financial_tendencies": [
+        {
+          "type": "người tiết kiệm thông thái",
+          "description": "giang có hơn 300,000 đồng trong ví học tập, cho thấy con rất tập trung vào việc đầu tư cho việc học.",
+          "suggestion": "có thể khuyến khích giang tạo mục tiêu cụ thể cho việc học và tiết kiệm để đạt được nó."
+        },
+        {
+          "type": "người hào phóng",
+          "description": "số tiền trong ví từ thiện là lớn nhất với hơn 200,000 đồng. giang có tiềm năng chia sẻ mạnh mẽ.",
+          "suggestion": "khuyến khích giang sử dụng một phần nhỏ để đóng góp vào một hoạt động từ thiện cụ thể trong tháng."
+        }
+      ],
+      "performance_sections": [
+        {
+          "title": "tự quản lý tài chính",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "giang chưa nhận được tiền mới nào trong tuần này và chưa thực hiện phân bổ tiền."
+        },
+        {
+          "title": "xu hướng tiêu dùng",
+          "level": "bắt đầu",
+          "score": 1,
+          "summary": "chưa có chi tiêu nào từ ví tiêu vặt và ví tiết kiệm, cho thấy giang chưa bắt đầu quản lý chi tiêu."
+        },
+        {
+          "title": "kiên nhẫn đạt mục tiêu",
+          "level": "tiến bộ ổn định",
+          "score": 3,
+          "summary": "với 304,916.63 đồng trong ví học tập, giang đang trên đường đạt được mục tiêu dài hạn."
+        },
+        {
+          "title": "chia sẻ và lòng trắc ẩn",
+          "level": "sắp thành thạo",
+          "score": 4,
+          "summary": "giang chưa chi tiêu từ ví từ thiện, tuy nhiên, số tiền lớn trong ví này cho thấy lòng trắc ẩn tốt."
+        },
+        {
+          "title": "mức độ tiến bộ",
+          "level": "thành thạo vượt mong đợi",
+          "score": 5,
+          "summary": "activity score là 10, mặc dù chưa hoàn thành nhiệm vụ nào, cho thấy sự tham gia tích cực."
+        },
+        {
+          "title": "sự đồng hành cùng con",
+          "level": "đang hình thành",
+          "score": 2,
+          "summary": "có vẻ gia đình cần gợi ý thêm để hỗ trợ giang trong quản lý tài chính."
+        }
+      ],
+      "next_week_goals": [
+        "bắt đầu hoạt động nhận tiền và phân bổ vào các ví",
+        "thiết lập một kế hoạch tiết kiệm và tiêu dùng cụ thể",
+        "chọn một hoạt động từ thiện để thực hiện đóng góp"
+      ],
+      "parent_suggestions": [
+        "khuyến khích giang tham gia hoạt động quản lý tài chính hàng tuần",
+        "giúp giang đặt ra mục tiêu tiết kiệm cụ thể",
+        "tạo không gian để giang có thể chia sẻ ý tưởng từ thiện của mình"
+      ],
+      "generated_at": "2025-10-24T12:54:13+07:00"
+    }
+  ],
+  "total_reports": 10,
+  "week": "Tuần 7 - Tháng 11/2025"
+}
